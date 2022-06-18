@@ -1,0 +1,2 @@
+2022-05-23T14:05:13+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 16044448 bytes) in /home/cryptoni/domains/sbmstore.in/public_html/intelli/wp-content/plugins/elementor/core/common/modules/ajax/module.php on line 265
+

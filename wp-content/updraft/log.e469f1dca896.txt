@@ -1,0 +1,776 @@
+0000.000 (0) Opened log file at time: Fri, 17 Jun 2022 17:06:57 +0000 on https://intelli.sbmstore.in
+0000.002 (0) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.22.12 WP: 6.0 PHP: 7.4.29 (litespeed, Linux da-de1.cloudns.io 3.10.0-962.3.2.lve1.5.61.el7.x86_64 #1 SMP Wed Aug 18 07:50:15 UTC 2021 x86_64) MySQL: 10.3.31-MariaDB-cll-lve (max packet size=268435456) WPLANG: en_US Server: LiteSpeed safe_mode: 0 max_execution_time: 900 memory_limit: 512M (used: 61.2M | 18M) multisite: N openssl: OpenSSL 1.1.1d  10 Sep 2019 mcrypt: Y LANG:  ZipArchive::addFile: Y
+0000.003 (0) Free space on disk containing Updraft's temporary directory: 1763020.3 MB
+0000.004 (0) Tasks: Backup files: 1 (schedule: daily) Backup DB: 1 (schedule: daily)
+0000.006 (0) Requesting semaphore lock (fd) (apparently not via scheduler)
+0000.008 (0) Set semaphore last lock (fd) time to 2022-06-17 17:06:57
+0000.008 (0) Semaphore lock (fd) complete
+0000.013 (0) Backup run: resumption=0, nonce=e469f1dca896, file_nonce=e469f1dca896 begun at=1655485617 (0s ago), job type=backup
+0000.014 (0) Scheduling a resumption (1) after 527 seconds (1655486144) in case this run gets aborted
+0000.026 (0) Checking if we have a zip executable available
+0000.028 (0) Creation of backups of directories: beginning
+0000.029 (0) Beginning creation of dump of plugins (split every: 400 MB)
+0003.683 (0) Total entities for the zip file: 1398 directories, 6000 files (0 skipped as non-modified), 131 MB
+0003.690 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0 MB, 1 (1) files added so far); re-opening (prior size: 0 KB)
+0003.790 (0) Zip: backup_2022-06-17-1706_Intelli_Books_e469f1dca896-plugins.zip.tmp: 100 files added (on-disk size: 240.9 KB)
+0003.838 (0) Zip: backup_2022-06-17-1706_Intelli_Books_e469f1dca896-plugins.zip.tmp: 200 files added (on-disk size: 240.9 KB)
+0003.871 (0) Zip: backup_2022-06-17-1706_Intelli_Books_e469f1dca896-plugins.zip.tmp: 300 files added (on-disk size: 240.9 KB)
+0003.896 (0) Zip: backup_2022-06-17-1706_Intelli_Books_e469f1dca896-plugins.zip.tmp: 400 files added (on-disk size: 240.9 KB)
+0003.923 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 25 MB added on this batch (25.1 MB, 6000 files batched, 492 (493) added so far); re-opening (prior size: 240.9 KB)
+0008.624 (0) A useful amount of data was added after this amount of zip processing: 5.3 s (normalised: 5.3 s, rate: 4828.5 KB/s)
+0008.625 (0) Performance is good - will increase the amount of data we attempt to batch (time=5.3183650970459, normalised_time=5.3018586771364, max_time=8.6240301132202, data points known=1, old_max_bytes=26214400, new_max_bytes=29666275)
+0008.632 (0) Zip: backup_2022-06-17-1706_Intelli_Books_e469f1dca896-plugins.zip.tmp: 500 files added (on-disk size: 9455.4 KB)
+0008.647 (0) Zip: backup_2022-06-17-1706_Intelli_Books_e469f1dca896-plugins.zip.tmp: 600 files added (on-disk size: 9455.4 KB)
+0008.663 (0) Zip: backup_2022-06-17-1706_Intelli_Books_e469f1dca896-plugins.zip.tmp: 700 files added (on-disk size: 9455.4 KB)
+0008.678 (0) Zip: backup_2022-06-17-1706_Intelli_Books_e469f1dca896-plugins.zip.tmp: 800 files added (on-disk size: 9455.4 KB)
+0008.694 (0) Zip: backup_2022-06-17-1706_Intelli_Books_e469f1dca896-plugins.zip.tmp: 900 files added (on-disk size: 9455.4 KB)
+0008.712 (0) Zip: backup_2022-06-17-1706_Intelli_Books_e469f1dca896-plugins.zip.tmp: 1000 files added (on-disk size: 9455.4 KB)
+0008.729 (0) Zip: backup_2022-06-17-1706_Intelli_Books_e469f1dca896-plugins.zip.tmp: 1100 files added (on-disk size: 9455.4 KB)
+0008.746 (0) Zip: backup_2022-06-17-1706_Intelli_Books_e469f1dca896-plugins.zip.tmp: 1200 files added (on-disk size: 9455.4 KB)
+0008.764 (0) Zip: backup_2022-06-17-1706_Intelli_Books_e469f1dca896-plugins.zip.tmp: 1300 files added (on-disk size: 9455.4 KB)
+0008.787 (0) Zip: backup_2022-06-17-1706_Intelli_Books_e469f1dca896-plugins.zip.tmp: 1400 files added (on-disk size: 9455.4 KB)
+0008.801 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (12.6 MB, 6000 files batched, 1001 (1494) added so far); re-opening (prior size: 9455.4 KB)
+0011.427 (0) Zip: backup_2022-06-17-1706_Intelli_Books_e469f1dca896-plugins.zip.tmp: 1500 files added (on-disk size: 12478.6 KB)
+0011.447 (0) Zip: backup_2022-06-17-1706_Intelli_Books_e469f1dca896-plugins.zip.tmp: 1600 files added (on-disk size: 12478.6 KB)
+0011.484 (0) Zip: backup_2022-06-17-1706_Intelli_Books_e469f1dca896-plugins.zip.tmp: 1700 files added (on-disk size: 12478.6 KB)
+0011.510 (0) Zip: backup_2022-06-17-1706_Intelli_Books_e469f1dca896-plugins.zip.tmp: 1800 files added (on-disk size: 12478.6 KB)
+0011.533 (0) Zip: backup_2022-06-17-1706_Intelli_Books_e469f1dca896-plugins.zip.tmp: 1900 files added (on-disk size: 12478.6 KB)
+0011.559 (0) Zip: backup_2022-06-17-1706_Intelli_Books_e469f1dca896-plugins.zip.tmp: 2000 files added (on-disk size: 12478.6 KB)
+0011.584 (0) Zip: backup_2022-06-17-1706_Intelli_Books_e469f1dca896-plugins.zip.tmp: 2100 files added (on-disk size: 12478.6 KB)
+0011.610 (0) Zip: backup_2022-06-17-1706_Intelli_Books_e469f1dca896-plugins.zip.tmp: 2200 files added (on-disk size: 12478.6 KB)
+0011.644 (0) Zip: backup_2022-06-17-1706_Intelli_Books_e469f1dca896-plugins.zip.tmp: 2300 files added (on-disk size: 12478.6 KB)
+0011.688 (0) Zip: backup_2022-06-17-1706_Intelli_Books_e469f1dca896-plugins.zip.tmp: 2400 files added (on-disk size: 12478.6 KB)
+0011.725 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (18.3 MB, 6000 files batched, 1001 (2495) added so far); re-opening (prior size: 12478.6 KB)
+0015.702 (0) Zip: backup_2022-06-17-1706_Intelli_Books_e469f1dca896-plugins.zip.tmp: 2500 files added (on-disk size: 17311.3 KB)
+0015.722 (0) Zip: backup_2022-06-17-1706_Intelli_Books_e469f1dca896-plugins.zip.tmp: 2600 files added (on-disk size: 17311.3 KB)
+0015.742 (0) Zip: backup_2022-06-17-1706_Intelli_Books_e469f1dca896-plugins.zip.tmp: 2700 files added (on-disk size: 17311.3 KB)
+0015.762 (0) Zip: backup_2022-06-17-1706_Intelli_Books_e469f1dca896-plugins.zip.tmp: 2800 files added (on-disk size: 17311.3 KB)
+0015.782 (0) Zip: backup_2022-06-17-1706_Intelli_Books_e469f1dca896-plugins.zip.tmp: 2900 files added (on-disk size: 17311.3 KB)
+0015.799 (0) Zip: backup_2022-06-17-1706_Intelli_Books_e469f1dca896-plugins.zip.tmp: 3000 files added (on-disk size: 17311.3 KB)
+0015.819 (0) Zip: backup_2022-06-17-1706_Intelli_Books_e469f1dca896-plugins.zip.tmp: 3100 files added (on-disk size: 17311.3 KB)
+0015.843 (0) Zip: backup_2022-06-17-1706_Intelli_Books_e469f1dca896-plugins.zip.tmp: 3200 files added (on-disk size: 17311.3 KB)
+0015.860 (0) Zip: backup_2022-06-17-1706_Intelli_Books_e469f1dca896-plugins.zip.tmp: 3300 files added (on-disk size: 17311.3 KB)
+0015.882 (0) Zip: backup_2022-06-17-1706_Intelli_Books_e469f1dca896-plugins.zip.tmp: 3400 files added (on-disk size: 17311.3 KB)
+0015.898 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 28.3 MB added on this batch (28.3 MB, 6000 files batched, 979 (3474) added so far); re-opening (prior size: 17311.3 KB)
+0021.374 (0) A useful amount of data was added after this amount of zip processing: 6.1 s (normalised: 6.1 s, rate: 4774.2 KB/s)
+0021.391 (0) Zip: backup_2022-06-17-1706_Intelli_Books_e469f1dca896-plugins.zip.tmp: 3500 files added (on-disk size: 29030.9 KB)
+0021.410 (0) Zip: backup_2022-06-17-1706_Intelli_Books_e469f1dca896-plugins.zip.tmp: 3600 files added (on-disk size: 29030.9 KB)
+0021.429 (0) Zip: backup_2022-06-17-1706_Intelli_Books_e469f1dca896-plugins.zip.tmp: 3700 files added (on-disk size: 29030.9 KB)
+0021.452 (0) Zip: backup_2022-06-17-1706_Intelli_Books_e469f1dca896-plugins.zip.tmp: 3800 files added (on-disk size: 29030.9 KB)
+0021.473 (0) Zip: backup_2022-06-17-1706_Intelli_Books_e469f1dca896-plugins.zip.tmp: 3900 files added (on-disk size: 29030.9 KB)
+0021.488 (0) Zip: backup_2022-06-17-1706_Intelli_Books_e469f1dca896-plugins.zip.tmp: 4000 files added (on-disk size: 29030.9 KB)
+0021.502 (0) Zip: backup_2022-06-17-1706_Intelli_Books_e469f1dca896-plugins.zip.tmp: 4100 files added (on-disk size: 29030.9 KB)
+0021.516 (0) Zip: backup_2022-06-17-1706_Intelli_Books_e469f1dca896-plugins.zip.tmp: 4200 files added (on-disk size: 29030.9 KB)
+0021.531 (0) Zip: backup_2022-06-17-1706_Intelli_Books_e469f1dca896-plugins.zip.tmp: 4300 files added (on-disk size: 29030.9 KB)
+0021.544 (0) Zip: backup_2022-06-17-1706_Intelli_Books_e469f1dca896-plugins.zip.tmp: 4400 files added (on-disk size: 29030.9 KB)
+0021.558 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (22.4 MB, 6000 files batched, 1001 (4475) added so far); re-opening (prior size: 29030.9 KB)
+0026.849 (0) Zip: backup_2022-06-17-1706_Intelli_Books_e469f1dca896-plugins.zip.tmp: 4500 files added (on-disk size: 37257.2 KB)
+0026.871 (0) Zip: backup_2022-06-17-1706_Intelli_Books_e469f1dca896-plugins.zip.tmp: 4600 files added (on-disk size: 37257.2 KB)
+0026.891 (0) Zip: backup_2022-06-17-1706_Intelli_Books_e469f1dca896-plugins.zip.tmp: 4700 files added (on-disk size: 37257.2 KB)
+0026.919 (0) Zip: backup_2022-06-17-1706_Intelli_Books_e469f1dca896-plugins.zip.tmp: 4800 files added (on-disk size: 37257.2 KB)
+0026.949 (0) Zip: backup_2022-06-17-1706_Intelli_Books_e469f1dca896-plugins.zip.tmp: 4900 files added (on-disk size: 37257.2 KB)
+0026.976 (0) Zip: backup_2022-06-17-1706_Intelli_Books_e469f1dca896-plugins.zip.tmp: 5000 files added (on-disk size: 37257.2 KB)
+0027.004 (0) Zip: backup_2022-06-17-1706_Intelli_Books_e469f1dca896-plugins.zip.tmp: 5100 files added (on-disk size: 37257.2 KB)
+0027.036 (0) Zip: backup_2022-06-17-1706_Intelli_Books_e469f1dca896-plugins.zip.tmp: 5200 files added (on-disk size: 37257.2 KB)
+0027.073 (0) Zip: backup_2022-06-17-1706_Intelli_Books_e469f1dca896-plugins.zip.tmp: 5300 files added (on-disk size: 37257.2 KB)
+0027.093 (0) Zip: backup_2022-06-17-1706_Intelli_Books_e469f1dca896-plugins.zip.tmp: 5400 files added (on-disk size: 37257.2 KB)
+0027.110 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (19.9 MB, 6000 files batched, 1001 (5476) added so far); re-opening (prior size: 37257.2 KB)
+0031.878 (0) Zip: backup_2022-06-17-1706_Intelli_Books_e469f1dca896-plugins.zip.tmp: 5500 files added (on-disk size: 42706.3 KB)
+0031.896 (0) Zip: backup_2022-06-17-1706_Intelli_Books_e469f1dca896-plugins.zip.tmp: 5600 files added (on-disk size: 42706.3 KB)
+0031.916 (0) Zip: backup_2022-06-17-1706_Intelli_Books_e469f1dca896-plugins.zip.tmp: 5700 files added (on-disk size: 42706.3 KB)
+0031.939 (0) Zip: backup_2022-06-17-1706_Intelli_Books_e469f1dca896-plugins.zip.tmp: 5800 files added (on-disk size: 42706.3 KB)
+0031.960 (0) Zip: backup_2022-06-17-1706_Intelli_Books_e469f1dca896-plugins.zip.tmp: 5900 files added (on-disk size: 42706.3 KB)
+0031.975 (0) Zip: backup_2022-06-17-1706_Intelli_Books_e469f1dca896-plugins.zip.tmp: 6000 files added (on-disk size: 42706.3 KB)
+0033.311 (0) Creating zip file manifest (backup_2022-06-17-1706_Intelli_Books_e469f1dca896-plugins.zip.list-temp.tmp)
+0033.748 (0) Successfully created zip file manifest (size: 500549)
+0034.060 (0) Created plugins zip (0) - 43990.2 KB in 34 s (1292.7 KB/s) (sha1: d79259c33858a651d07ad315f46696e5e8e3f13d, sha256: 896985a613fa36762012033af114b09dc690d75d5510205a7c9ffd84ceba027f)
+0034.061 (0) Beginning creation of dump of themes (split every: 400 MB)
+0034.483 (0) Total entities for the zip file: 398 directories, 1166 files (0 skipped as non-modified), 33.4 MB
+0034.498 (0) Zip: backup_2022-06-17-1706_Intelli_Books_e469f1dca896-themes.zip.tmp: 100 files added (on-disk size: 0 KB)
+0034.515 (0) Zip: backup_2022-06-17-1706_Intelli_Books_e469f1dca896-themes.zip.tmp: 200 files added (on-disk size: 0 KB)
+0034.529 (0) Zip: backup_2022-06-17-1706_Intelli_Books_e469f1dca896-themes.zip.tmp: 300 files added (on-disk size: 0 KB)
+0034.543 (0) Zip: backup_2022-06-17-1706_Intelli_Books_e469f1dca896-themes.zip.tmp: 400 files added (on-disk size: 0 KB)
+0034.561 (0) Zip: backup_2022-06-17-1706_Intelli_Books_e469f1dca896-themes.zip.tmp: 500 files added (on-disk size: 0 KB)
+0034.585 (0) Zip: backup_2022-06-17-1706_Intelli_Books_e469f1dca896-themes.zip.tmp: 600 files added (on-disk size: 0 KB)
+0034.607 (0) Zip: backup_2022-06-17-1706_Intelli_Books_e469f1dca896-themes.zip.tmp: 700 files added (on-disk size: 0 KB)
+0034.630 (0) Zip: backup_2022-06-17-1706_Intelli_Books_e469f1dca896-themes.zip.tmp: 800 files added (on-disk size: 0 KB)
+0034.648 (0) Zip: backup_2022-06-17-1706_Intelli_Books_e469f1dca896-themes.zip.tmp: 900 files added (on-disk size: 0 KB)
+0034.669 (0) Zip: backup_2022-06-17-1706_Intelli_Books_e469f1dca896-themes.zip.tmp: 1000 files added (on-disk size: 0 KB)
+0034.670 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (20.2 MB, 1166 files batched, 1001 (1001) added so far); re-opening (prior size: 0 KB)
+0035.397 (0) Zip: backup_2022-06-17-1706_Intelli_Books_e469f1dca896-themes.zip.tmp: 1100 files added (on-disk size: 10263 KB)
+0038.853 (0) Creating zip file manifest (backup_2022-06-17-1706_Intelli_Books_e469f1dca896-themes.zip.list-temp.tmp)
+0038.981 (0) Successfully created zip file manifest (size: 91514)
+0039.098 (0) Created themes zip (0) - 14439.8 KB in 5 s (2867.6 KB/s) (sha1: b7b3f586175e859a6ba687cab6ce98d403c5db07, sha256: 2ef89679264075e0df2b48db66d10407aac3eb4417f22a08e5b72c2a3639a4f4)
+0039.101 (0) Exclusion option setting (uploads): backup*,*backups,backwpup*,wp-clone,snapshots
+0039.101 (0) Looking for candidates to backup in: /home/cryptoni/domains/sbmstore.in/public_html/intelli/wp-content/uploads
+0039.102 (0) finding files: 2022: adding to list (1)
+0039.103 (0) finding files: 2017: adding to list (2)
+0039.103 (0) finding files: wpforms: adding to list (3)
+0039.104 (0) finding files: woocommerce-placeholder-1024x1024.png: adding to list (4)
+0039.104 (0) finding files: woocommerce-placeholder-150x150.png: adding to list (5)
+0039.105 (0) finding files: astra-addon: adding to list (6)
+0039.105 (0) finding files: astra: adding to list (7)
+0039.106 (0) finding files: 2021: adding to list (8)
+0039.106 (0) finding files: wc-logs: adding to list (9)
+0039.107 (0) finding files: woocommerce-placeholder.png: adding to list (10)
+0039.107 (0) finding files: astra-sites: adding to list (11)
+0039.108 (0) finding files: woocommerce-placeholder-300x300.png: adding to list (12)
+0039.108 (0) finding files: woocommerce_uploads: adding to list (13)
+0039.109 (0) finding files: woocommerce-placeholder-768x768.png: adding to list (14)
+0039.109 (0) finding files: cartflows-logs: adding to list (15)
+0039.110 (0) finding files: woocommerce-placeholder-600x600.png: adding to list (16)
+0039.110 (0) finding files: elementor: adding to list (17)
+0039.112 (0) finding files: 2019: adding to list (18)
+0039.113 (0) finding files: woocommerce-placeholder-100x100.png: adding to list (19)
+0039.113 (0) finding files: 2018: adding to list (20)
+0039.114 (0) finding files: maxmegamenu: adding to list (21)
+0039.114 (0) Beginning creation of dump of uploads (split every: 400 MB)
+0039.474 (0) Total entities for the zip file: 28 directories, 2133 files (0 skipped as non-modified), 746.3 MB
+0039.488 (0) Zip: backup_2022-06-17-1706_Intelli_Books_e469f1dca896-uploads.zip.tmp: 100 files added (on-disk size: 0 KB)
+0039.491 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 28.3 MB added on this batch (33.5 MB, 2133 files batched, 112 (112) added so far); re-opening (prior size: 0 KB)
+0045.711 (0) A useful amount of data was added after this amount of zip processing: 7.4 s (normalised: 6.3 s, rate: 4632.3 KB/s)
+0045.726 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 28.3 MB added on this batch (35.3 MB, 2133 files batched, 62 (174) added so far); re-opening (prior size: 34323.1 KB)
+0056.240 (0) A useful amount of data was added after this amount of zip processing: 10.9 s (normalised: 8.8 s, rate: 3303.8 KB/s)
+0056.247 (0) Zip: backup_2022-06-17-1706_Intelli_Books_e469f1dca896-uploads.zip.tmp: 200 files added (on-disk size: 70459.2 KB)
+0056.259 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 28.3 MB added on this batch (28.4 MB, 2133 files batched, 72 (246) added so far); re-opening (prior size: 70459.2 KB)
+0066.323 (0) A useful amount of data was added after this amount of zip processing: 11 s (normalised: 11 s, rate: 2638 KB/s)
+0066.367 (0) Zip: backup_2022-06-17-1706_Intelli_Books_e469f1dca896-uploads.zip.tmp: 300 files added (on-disk size: 99534.8 KB)
+0066.371 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 28.3 MB added on this batch (35.4 MB, 2133 files batched, 73 (319) added so far); re-opening (prior size: 99534.8 KB)
+0077.258 (0) A useful amount of data was added after this amount of zip processing: 11 s (normalised: 8.8 s, rate: 3308.9 KB/s)
+0077.268 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 28.3 MB added on this batch (35.8 MB, 2133 files batched, 38 (357) added so far); re-opening (prior size: 135786.1 KB)
+0089.400 (0) A useful amount of data was added after this amount of zip processing: 13.1 s (normalised: 10.3 s, rate: 2800 KB/s)
+0089.463 (0) Zip: backup_2022-06-17-1706_Intelli_Books_e469f1dca896-uploads.zip.tmp: 400 files added (on-disk size: 172419.6 KB)
+0089.476 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 28.3 MB added on this batch (31.2 MB, 2133 files batched, 74 (431) added so far); re-opening (prior size: 172419.6 KB)
+0100.763 (0) A useful amount of data was added after this amount of zip processing: 11.5 s (normalised: 10.4 s, rate: 2786.4 KB/s)
+0100.853 (0) Zip: backup_2022-06-17-1706_Intelli_Books_e469f1dca896-uploads.zip.tmp: 500 files added (on-disk size: 204354.7 KB)
+0100.856 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 28.3 MB added on this batch (38.2 MB, 2133 files batched, 78 (509) added so far); re-opening (prior size: 204354.7 KB)
+0112.457 (0) A useful amount of data was added after this amount of zip processing: 12.2 s (normalised: 9 s, rate: 3219.6 KB/s)
+0112.558 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 28.3 MB added on this batch (38.2 MB, 2133 files batched, 39 (548) added so far); re-opening (prior size: 243488.6 KB)
+0125.360 (0) A useful amount of data was added after this amount of zip processing: 13.1 s (normalised: 9.7 s, rate: 2996.6 KB/s)
+0125.453 (0) Zip: backup_2022-06-17-1706_Intelli_Books_e469f1dca896-uploads.zip.tmp: 600 files added (on-disk size: 282614.1 KB)
+0125.467 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 28.3 MB added on this batch (31.4 MB, 2133 files batched, 91 (639) added so far); re-opening (prior size: 282614.1 KB)
+0136.954 (0) A useful amount of data was added after this amount of zip processing: 11.6 s (normalised: 10.5 s, rate: 2764.7 KB/s)
+0136.964 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 28.3 MB added on this batch (35.3 MB, 2133 files batched, 44 (683) added so far); re-opening (prior size: 314831.8 KB)
+0148.466 (0) A useful amount of data was added after this amount of zip processing: 12.2 s (normalised: 9.7 s, rate: 2974.3 KB/s)
+0148.473 (0) Zip: backup_2022-06-17-1706_Intelli_Books_e469f1dca896-uploads.zip.tmp: 700 files added (on-disk size: 351006.8 KB)
+0148.481 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 28.3 MB added on this batch (29.2 MB, 2133 files batched, 41 (724) added so far); re-opening (prior size: 351006.8 KB)
+0159.953 (0) A useful amount of data was added after this amount of zip processing: 11.6 s (normalised: 11.3 s, rate: 2570.2 KB/s)
+0159.970 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 28.3 MB added on this batch (29.3 MB, 2133 files batched, 65 (789) added so far); re-opening (prior size: 380950.9 KB)
+0169.701 (0) A useful amount of data was added after this amount of zip processing: 10.4 s (normalised: 10 s, rate: 2887.2 KB/s)
+0169.704 (0) Zip size is at/near split limit (401.3 MB / 400 MB) - bumping index (from: 0)
+0173.459 (0) Creating zip file manifest (backup_2022-06-17-1706_Intelli_Books_e469f1dca896-uploads.zip.list-temp.tmp)
+0173.516 (0) Successfully created zip file manifest (size: 42223)
+0173.518 (0) Created uploads zip (0) - 410973.2 KB in 130.6 s (3145.7 KB/s) (checksums: sha1: fab1313dd8a0aef3c425ad32974d2464f85198d7, sha256: c9b68baa507a813ae39a288afcde8c79213177bdccbcb91c86b3e5653bbafb95)
+0173.519 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0 MB, 1 (790) files added so far); re-opening (prior size: 0 KB)
+0173.522 (0) Zip: backup_2022-06-17-1706_Intelli_Books_e469f1dca896-uploads2.zip.tmp: 800 files added (on-disk size: 36.8 KB)
+0173.529 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 28.3 MB added on this batch (34.5 MB, 2133 files batched, 46 (836) added so far); re-opening (prior size: 36.8 KB)
+0173.603 (0) A useful amount of data was added after this amount of zip processing: 0.3 s (normalised: 0.2 s, rate: 118616.6 KB/s)
+0173.604 (0) Performance is good - will increase the amount of data we attempt to batch (time=0.2975959777832, normalised_time=0.24424054263446, max_time=173.60344409943, data points known=1, old_max_bytes=29666275, new_max_bytes=209715200)
+0173.614 (0) Zip: backup_2022-06-17-1706_Intelli_Books_e469f1dca896-uploads2.zip.tmp: 900 files added (on-disk size: 35305.1 KB)
+0173.627 (0) Zip: backup_2022-06-17-1706_Intelli_Books_e469f1dca896-uploads2.zip.tmp: 1000 files added (on-disk size: 35305.1 KB)
+0173.641 (0) Zip: backup_2022-06-17-1706_Intelli_Books_e469f1dca896-uploads2.zip.tmp: 1100 files added (on-disk size: 35305.1 KB)
+0173.650 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 200 MB added on this batch (208.5 MB, 2133 files batched, 323 (1159) added so far); re-opening (prior size: 35305.1 KB)
+0189.068 (0) A useful amount of data was added after this amount of zip processing: 15.8 s (normalised: 15.1 s, rate: 13545.1 KB/s)
+0189.079 (0) Zip: backup_2022-06-17-1706_Intelli_Books_e469f1dca896-uploads2.zip.tmp: 1200 files added (on-disk size: 248862.8 KB)
+0189.167 (0) Zip: backup_2022-06-17-1706_Intelli_Books_e469f1dca896-uploads2.zip.tmp: 1300 files added (on-disk size: 248862.8 KB)
+0189.185 (0) Zip: backup_2022-06-17-1706_Intelli_Books_e469f1dca896-uploads2.zip.tmp: 1400 files added (on-disk size: 248862.8 KB)
+0189.267 (0) Zip: backup_2022-06-17-1706_Intelli_Books_e469f1dca896-uploads2.zip.tmp: 1500 files added (on-disk size: 248862.8 KB)
+0189.358 (0) Zip: backup_2022-06-17-1706_Intelli_Books_e469f1dca896-uploads2.zip.tmp: 1600 files added (on-disk size: 248862.8 KB)
+0189.378 (0) Zip: backup_2022-06-17-1706_Intelli_Books_e469f1dca896-uploads2.zip.tmp: 1700 files added (on-disk size: 248862.8 KB)
+0189.464 (0) Zip: backup_2022-06-17-1706_Intelli_Books_e469f1dca896-uploads2.zip.tmp: 1800 files added (on-disk size: 248862.8 KB)
+0189.487 (0) Zip: backup_2022-06-17-1706_Intelli_Books_e469f1dca896-uploads2.zip.tmp: 1900 files added (on-disk size: 248862.8 KB)
+0189.559 (0) Zip: backup_2022-06-17-1706_Intelli_Books_e469f1dca896-uploads2.zip.tmp: 2000 files added (on-disk size: 248862.8 KB)
+0189.574 (0) Zip: backup_2022-06-17-1706_Intelli_Books_e469f1dca896-uploads2.zip.tmp: 2100 files added (on-disk size: 248862.8 KB)
+0231.393 (0) Creating zip file manifest (backup_2022-06-17-1706_Intelli_Books_e469f1dca896-uploads2.zip.list-temp.tmp)
+0231.514 (0) Successfully created zip file manifest (size: 76647)
+0234.185 (0) Created uploads zip (1) - 350275.2 KB in 60.7 s (5773.7 KB/s) (sha1: 37abe0938eb8567595df43058a8c9630b4eb5446, sha256: 5a9e86531c659cf83544bb414ad372e7d39e3205a8f677782435b65ee0a5bbbd)
+0234.187 (0) Beginning backup of other directories found in the content directory (index: 0)
+0234.188 (0) Exclusion option setting (others): upgrade,cache,updraft,backup*,*backups,mysql.sql,debug.log
+0234.188 (0) Looking for candidates to backup in: /home/cryptoni/domains/sbmstore.in/public_html/intelli/wp-content
+0234.189 (0) finding files: index.php: adding to list (1)
+0234.189 (0) finding files: plugins: skipping: this is the plugins directory
+0234.190 (0) finding files: themes: skipping: this is the themes directory
+0234.190 (0) finding files: uploads: skipping: this is the uploads directory
+0234.191 (0) finding files: upgrade: skipping: excluded by options
+0234.191 (0) finding files: ai1wm-backups: skipping: excluded by options (glob)
+0234.192 (0) finding files: updraft: skipping: this is the updraft directory
+0234.195 (0) Total entities for the zip file: 0 directories, 1 files (0 skipped as non-modified), 0 MB
+0234.196 (0) Creating zip file manifest (backup_2022-06-17-1706_Intelli_Books_e469f1dca896-others.zip.list-temp.tmp)
+0234.197 (0) Successfully created zip file manifest (size: 43)
+0234.199 (0) Created others zip (0) - 0.1 KB in 0 s (25.8 KB/s) (sha1: 4f048fea96ec64c5d429bdcadd4d33a6cda70821, sha256: 7ebf4690426efc5e8b64a4b0ea6bf3f77f3ef90f0ef97a77b2416899fb2f0146)
+0234.202 (0) Saving backup status to database (elements: 9)
+0234.203 (0) Beginning creation of database dump (WordPress DB)
+0234.204 (0) SQL compatibility mode is: NO_ENGINE_SUBSTITUTION
+0234.228 (0) Table wp1k_options: Total expected rows (via COUNT): 702
+0234.396 (0) Table wp1k_options: Rows added in this batch (next record: 12693): 697 (uncompressed bytes in this segment=7749142) in 0.18 seconds
+0235.156 (0) Table wp1k_options: finishing file(s) (2, 870.3 KB)
+0235.159 (0) Table wp1k_users: Total expected rows (via COUNT): 4
+0235.160 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0235.161 (0) Table wp1k_users: Rows added in this batch (next record: 4): 4 (uncompressed bytes in this segment=1983) in 0.00 seconds
+0235.165 (0) Table wp1k_users: finishing file(s) (2, 0.8 KB)
+0235.169 (0) Table wp1k_usermeta: Total expected rows (via COUNT): 87
+0235.170 (0) Table is relatively small; fetch_rows will thus be: 100 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0235.174 (0) Table wp1k_usermeta: Rows added in this batch (next record: 102): 87 (uncompressed bytes in this segment=7556) in 0.01 seconds
+0235.178 (0) Table wp1k_usermeta: finishing file(s) (2, 2.5 KB)
+0235.183 (0) Table wp1k_commentmeta: Total expected rows (via COUNT): 0
+0235.184 (0) Table wp1k_commentmeta: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=696) in 0.00 seconds
+0235.188 (0) Table wp1k_commentmeta: finishing file(s) (2, 0.4 KB)
+0235.191 (0) Table wp1k_comments: Total expected rows (via COUNT): 1
+0235.192 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0235.194 (0) Table wp1k_comments: Rows added in this batch (next record: 1): 1 (uncompressed bytes in this segment=2154) in 0.00 seconds
+0235.197 (0) Table wp1k_comments: finishing file(s) (2, 0.8 KB)
+0235.201 (0) Table wp1k_links: Total expected rows (via COUNT): 0
+0235.203 (0) Table wp1k_links: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1278) in 0.00 seconds
+0235.206 (0) Table wp1k_links: finishing file(s) (2, 0.5 KB)
+0235.233 (0) Table wp1k_postmeta: Total expected rows (approximate): 6037
+0235.868 (0) Table wp1k_postmeta: Rows added in this batch (next record: 13848): 11631 (uncompressed bytes in this segment=38105310) in 0.66 seconds
+0235.871 (0) Table wp1k_postmeta: finishing file(s) (2, 3170 KB)
+0235.890 (0) Table wp1k_posts: Total expected rows (via COUNT): 1750
+0236.123 (0) Table wp1k_posts: Rows added in this batch (next record: 4714): 1750 (uncompressed bytes in this segment=13930602) in 0.25 seconds
+0236.126 (0) Table wp1k_posts: finishing file(s) (2, 700.7 KB)
+0236.130 (0) Table wp1k_signups: Total expected rows (via COUNT): 0
+0236.131 (0) Table wp1k_signups: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1245) in 0.00 seconds
+0236.133 (0) Table wp1k_signups: finishing file(s) (2, 0.5 KB)
+0236.135 (0) Table wp1k_term_relationships: Total expected rows (approximate): 235
+0236.137 (0) Table wp1k_term_relationships: Rows added in this batch (next record: 100000): 266 (uncompressed bytes in this segment=4694) in 0.00 seconds
+0236.139 (0) Table wp1k_term_relationships: finishing file(s) (2, 1.1 KB)
+0236.145 (0) Table wp1k_term_taxonomy: Total expected rows (via COUNT): 66
+0236.145 (0) Table is relatively small; fetch_rows will thus be: 100 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0236.147 (0) Table wp1k_term_taxonomy: Rows added in this batch (next record: 66): 66 (uncompressed bytes in this segment=3997) in 0.00 seconds
+0236.149 (0) Table wp1k_term_taxonomy: finishing file(s) (2, 1.2 KB)
+0236.153 (0) Table wp1k_termmeta: Total expected rows (via COUNT): 39
+0236.153 (0) Table is relatively small; fetch_rows will thus be: 50 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0236.155 (0) Table wp1k_termmeta: Rows added in this batch (next record: 39): 39 (uncompressed bytes in this segment=2420) in 0.00 seconds
+0236.158 (0) Table wp1k_termmeta: finishing file(s) (2, 0.7 KB)
+0236.170 (0) Table wp1k_terms: Total expected rows (via COUNT): 66
+0236.170 (0) Table is relatively small; fetch_rows will thus be: 100 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0236.173 (0) Table wp1k_terms: Rows added in this batch (next record: 66): 66 (uncompressed bytes in this segment=2981) in 0.00 seconds
+0236.175 (0) Table wp1k_terms: finishing file(s) (2, 1.2 KB)
+0236.179 (0) Table wp1k_actionscheduler_actions: Total expected rows (via COUNT): 43
+0236.180 (0) Table is relatively small; fetch_rows will thus be: 50 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0236.181 (0) Table wp1k_actionscheduler_actions: Rows added in this batch (next record: 51): 43 (uncompressed bytes in this segment=15354) in 0.00 seconds
+0236.184 (0) Table wp1k_actionscheduler_actions: finishing file(s) (2, 2.1 KB)
+0236.187 (0) Table wp1k_actionscheduler_claims: Total expected rows (via COUNT): 0
+0236.189 (0) Table wp1k_actionscheduler_claims: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=634) in 0.00 seconds
+0236.191 (0) Table wp1k_actionscheduler_claims: finishing file(s) (2, 0.4 KB)
+0236.194 (0) Table wp1k_actionscheduler_groups: Total expected rows (via COUNT): 4
+0236.194 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0236.196 (0) Table wp1k_actionscheduler_groups: Rows added in this batch (next record: 4): 4 (uncompressed bytes in this segment=781) in 0.00 seconds
+0236.198 (0) Table wp1k_actionscheduler_groups: finishing file(s) (2, 0.5 KB)
+0236.201 (0) Table wp1k_actionscheduler_logs: Total expected rows (via COUNT): 129
+0236.202 (0) Table is relatively small; fetch_rows will thus be: 250 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0236.204 (0) Table wp1k_actionscheduler_logs: Rows added in this batch (next record: 131): 129 (uncompressed bytes in this segment=11748) in 0.00 seconds
+0236.206 (0) Table wp1k_actionscheduler_logs: finishing file(s) (2, 1.7 KB)
+0236.210 (0) Table wp1k_aioseo_cache: Total expected rows (via COUNT): 6
+0236.211 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0236.214 (0) Table wp1k_aioseo_cache: Rows added in this batch (next record: 7): 6 (uncompressed bytes in this segment=72284) in 0.01 seconds
+0236.217 (0) Table wp1k_aioseo_cache: finishing file(s) (2, 13.5 KB)
+0236.221 (0) Table wp1k_aioseo_notifications: Total expected rows (via COUNT): 0
+0236.222 (0) Table wp1k_aioseo_notifications: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1607) in 0.00 seconds
+0236.224 (0) Table wp1k_aioseo_notifications: finishing file(s) (2, 0.5 KB)
+0236.228 (0) Table wp1k_aioseo_posts: Total expected rows (via COUNT): 0
+0236.229 (0) Table wp1k_aioseo_posts: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=3754) in 0.00 seconds
+0236.231 (0) Table wp1k_aioseo_posts: finishing file(s) (2, 0.8 KB)
+0236.234 (0) Table wp1k_cartflows_ca_cart_abandonment: Total expected rows (approximate): 0
+0236.235 (0) Table wp1k_cartflows_ca_cart_abandonment: Rows added in this batch (next record: 0): 0 (uncompressed bytes in this segment=1186) in 0.00 seconds
+0236.237 (0) Table wp1k_cartflows_ca_cart_abandonment: finishing file(s) (2, 0.5 KB)
+0236.240 (0) Table wp1k_cartflows_ca_email_history: Total expected rows (via COUNT): 0
+0236.240 (0) Table wp1k_cartflows_ca_email_history: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=843) in 0.00 seconds
+0236.242 (0) Table wp1k_cartflows_ca_email_history: finishing file(s) (2, 0.4 KB)
+0236.246 (0) Table wp1k_cartflows_ca_email_templates: Total expected rows (via COUNT): 3
+0236.247 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0236.251 (0) Table wp1k_cartflows_ca_email_templates: Rows added in this batch (next record: 3): 3 (uncompressed bytes in this segment=2732) in 0.01 seconds
+0236.254 (0) Table wp1k_cartflows_ca_email_templates: finishing file(s) (2, 1.2 KB)
+0236.258 (0) Table wp1k_cartflows_ca_email_templates_meta: Total expected rows (via COUNT): 15
+0236.259 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0236.260 (0) Table wp1k_cartflows_ca_email_templates_meta: Rows added in this batch (next record: 15): 15 (uncompressed bytes in this segment=1401) in 0.00 seconds
+0236.262 (0) Table wp1k_cartflows_ca_email_templates_meta: finishing file(s) (2, 0.5 KB)
+0236.266 (0) Table wp1k_e_events: Total expected rows (via COUNT): 0
+0236.267 (0) Table wp1k_e_events: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=546) in 0.00 seconds
+0236.269 (0) Table wp1k_e_events: finishing file(s) (2, 0.4 KB)
+0236.272 (0) Table wp1k_e_submissions: Total expected rows (via COUNT): 3
+0236.273 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0236.275 (0) Table wp1k_e_submissions: Rows added in this batch (next record: 3): 3 (uncompressed bytes in this segment=3603) in 0.00 seconds
+0236.277 (0) Table wp1k_e_submissions: finishing file(s) (2, 1.2 KB)
+0236.280 (0) Table wp1k_e_submissions_actions_log: Total expected rows (via COUNT): 3
+0236.280 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0236.281 (0) Table wp1k_e_submissions_actions_log: Rows added in this batch (next record: 3): 3 (uncompressed bytes in this segment=1758) in 0.00 seconds
+0236.283 (0) Table wp1k_e_submissions_actions_log: finishing file(s) (2, 0.6 KB)
+0236.287 (0) Table wp1k_e_submissions_values: Total expected rows (via COUNT): 9
+0236.288 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0236.289 (0) Table wp1k_e_submissions_values: Rows added in this batch (next record: 9): 9 (uncompressed bytes in this segment=1096) in 0.00 seconds
+0236.291 (0) Table wp1k_e_submissions_values: finishing file(s) (2, 0.5 KB)
+0236.294 (0) Table wp1k_ff_scheduled_actions: Total expected rows (via COUNT): 0
+0236.296 (0) Table wp1k_ff_scheduled_actions: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1080) in 0.00 seconds
+0236.298 (0) Table wp1k_ff_scheduled_actions: finishing file(s) (2, 0.4 KB)
+0236.302 (0) Table wp1k_fluentform_draft_submissions: Total expected rows (via COUNT): 0
+0236.303 (0) Table wp1k_fluentform_draft_submissions: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1196) in 0.00 seconds
+0236.305 (0) Table wp1k_fluentform_draft_submissions: finishing file(s) (2, 0.5 KB)
+0236.310 (0) Table wp1k_fluentform_entry_details: Total expected rows (via COUNT): 448
+0236.310 (0) Table is relatively small; fetch_rows will thus be: 500 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0236.315 (0) Table wp1k_fluentform_entry_details: Rows added in this batch (next record: 463): 448 (uncompressed bytes in this segment=22944) in 0.01 seconds
+0236.318 (0) Table wp1k_fluentform_entry_details: finishing file(s) (2, 3.6 KB)
+0236.322 (0) Table wp1k_fluentform_form_analytics: Total expected rows (via COUNT): 27
+0236.322 (0) Table is relatively small; fetch_rows will thus be: 50 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0236.324 (0) Table wp1k_fluentform_form_analytics: Rows added in this batch (next record: 28): 27 (uncompressed bytes in this segment=4440) in 0.00 seconds
+0236.327 (0) Table wp1k_fluentform_form_analytics: finishing file(s) (2, 0.9 KB)
+0236.331 (0) Table wp1k_fluentform_form_meta: Total expected rows (via COUNT): 38
+0236.331 (0) Table is relatively small; fetch_rows will thus be: 50 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0236.333 (0) Table wp1k_fluentform_form_meta: Rows added in this batch (next record: 44): 38 (uncompressed bytes in this segment=30419) in 0.00 seconds
+0236.336 (0) Table wp1k_fluentform_form_meta: finishing file(s) (2, 4.6 KB)
+0236.341 (0) Table wp1k_fluentform_forms: Total expected rows (via COUNT): 5
+0236.342 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0236.345 (0) Table wp1k_fluentform_forms: Rows added in this batch (next record: 6): 5 (uncompressed bytes in this segment=37935) in 0.01 seconds
+0236.347 (0) Table wp1k_fluentform_forms: finishing file(s) (2, 4.2 KB)
+0236.352 (0) Table wp1k_fluentform_logs: Total expected rows (via COUNT): 36
+0236.353 (0) Table is relatively small; fetch_rows will thus be: 50 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0236.355 (0) Table wp1k_fluentform_logs: Rows added in this batch (next record: 36): 36 (uncompressed bytes in this segment=8811) in 0.00 seconds
+0236.358 (0) Table wp1k_fluentform_logs: finishing file(s) (2, 1.2 KB)
+0236.362 (0) Table wp1k_fluentform_order_items: Total expected rows (via COUNT): 0
+0236.363 (0) Table wp1k_fluentform_order_items: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1024) in 0.00 seconds
+0236.366 (0) Table wp1k_fluentform_order_items: finishing file(s) (2, 0.4 KB)
+0236.372 (0) Table wp1k_fluentform_submission_meta: Total expected rows (via COUNT): 71
+0236.373 (0) Table is relatively small; fetch_rows will thus be: 100 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0236.375 (0) Table wp1k_fluentform_submission_meta: Rows added in this batch (next record: 75): 71 (uncompressed bytes in this segment=9583) in 0.01 seconds
+0236.378 (0) Table wp1k_fluentform_submission_meta: finishing file(s) (2, 2.1 KB)
+0236.382 (0) Table wp1k_fluentform_submissions: Total expected rows (via COUNT): 34
+0236.383 (0) Table is relatively small; fetch_rows will thus be: 50 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0236.386 (0) Table wp1k_fluentform_submissions: Rows added in this batch (next record: 36): 34 (uncompressed bytes in this segment=26499) in 0.01 seconds
+0236.390 (0) Table wp1k_fluentform_submissions: finishing file(s) (2, 2.4 KB)
+0236.395 (0) Table wp1k_fluentform_subscriptions: Total expected rows (via COUNT): 0
+0236.396 (0) Table wp1k_fluentform_subscriptions: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=2013) in 0.00 seconds
+0236.399 (0) Table wp1k_fluentform_subscriptions: finishing file(s) (2, 0.6 KB)
+0236.404 (0) Table wp1k_fluentform_transactions: Total expected rows (via COUNT): 0
+0236.405 (0) Table wp1k_fluentform_transactions: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1719) in 0.00 seconds
+0236.408 (0) Table wp1k_fluentform_transactions: finishing file(s) (2, 0.5 KB)
+0236.414 (0) Table wp1k_frm_fields: Total expected rows (via COUNT): 140
+0236.414 (0) Table is relatively small; fetch_rows will thus be: 250 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0236.421 (0) Table wp1k_frm_fields: Rows added in this batch (next record: 222): 140 (uncompressed bytes in this segment=279622) in 0.01 seconds
+0236.424 (0) Table wp1k_frm_fields: finishing file(s) (2, 13 KB)
+0236.429 (0) Table wp1k_frm_forms: Total expected rows (via COUNT): 14
+0236.429 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0236.431 (0) Table wp1k_frm_forms: Rows added in this batch (next record: 14): 14 (uncompressed bytes in this segment=37019) in 0.00 seconds
+0236.434 (0) Table wp1k_frm_forms: finishing file(s) (2, 3 KB)
+0236.440 (0) Table wp1k_frm_item_metas: Total expected rows (via COUNT): 20
+0236.440 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0236.441 (0) Table wp1k_frm_item_metas: Rows added in this batch (next record: 778): 20 (uncompressed bytes in this segment=1855) in 0.00 seconds
+0236.444 (0) Table wp1k_frm_item_metas: finishing file(s) (2, 0.7 KB)
+0236.448 (0) Table wp1k_frm_items: Total expected rows (via COUNT): 3
+0236.449 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0236.450 (0) Table wp1k_frm_items: Rows added in this batch (next record: 124): 3 (uncompressed bytes in this segment=2117) in 0.00 seconds
+0236.452 (0) Table wp1k_frm_items: finishing file(s) (2, 0.7 KB)
+0236.456 (0) Table wp1k_fsmpt_email_logs: Total expected rows (via COUNT): 2
+0236.456 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0236.457 (0) Table wp1k_fsmpt_email_logs: Rows added in this batch (next record: 43): 2 (uncompressed bytes in this segment=2984) in 0.00 seconds
+0236.461 (0) Table wp1k_fsmpt_email_logs: finishing file(s) (2, 1.1 KB)
+0236.465 (0) Table wp1k_gf_addon_feed: Total expected rows (via COUNT): 0
+0236.467 (0) Table wp1k_gf_addon_feed: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=828) in 0.00 seconds
+0236.469 (0) Table wp1k_gf_addon_feed: finishing file(s) (2, 0.4 KB)
+0236.472 (0) Table wp1k_gf_draft_submissions: Total expected rows (approximate): 0
+0236.473 (0) Table wp1k_gf_draft_submissions: Rows added in this batch (next record: 0): 0 (uncompressed bytes in this segment=838) in 0.00 seconds
+0236.475 (0) Table wp1k_gf_draft_submissions: finishing file(s) (2, 0.4 KB)
+0236.479 (0) Table wp1k_gf_entry: Total expected rows (via COUNT): 0
+0236.480 (0) Table wp1k_gf_entry: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1526) in 0.00 seconds
+0236.482 (0) Table wp1k_gf_entry: finishing file(s) (2, 0.6 KB)
+0236.486 (0) Table wp1k_gf_entry_meta: Total expected rows (via COUNT): 0
+0236.488 (0) Table wp1k_gf_entry_meta: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=844) in 0.00 seconds
+0236.492 (0) Table wp1k_gf_entry_meta: finishing file(s) (2, 0.4 KB)
+0236.496 (0) Table wp1k_gf_entry_notes: Total expected rows (via COUNT): 0
+0236.498 (0) Table wp1k_gf_entry_notes: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=895) in 0.00 seconds
+0236.501 (0) Table wp1k_gf_entry_notes: finishing file(s) (2, 0.4 KB)
+0236.504 (0) Table wp1k_gf_form: Total expected rows (via COUNT): 0
+0236.504 (0) Table wp1k_gf_form: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=631) in 0.00 seconds
+0236.506 (0) Table wp1k_gf_form: finishing file(s) (2, 0.4 KB)
+0236.509 (0) Table wp1k_gf_form_meta: Total expected rows (via COUNT): 0
+0236.510 (0) Table wp1k_gf_form_meta: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=706) in 0.00 seconds
+0236.513 (0) Table wp1k_gf_form_meta: finishing file(s) (2, 0.4 KB)
+0236.516 (0) Table wp1k_gf_form_revisions: Total expected rows (via COUNT): 0
+0236.518 (0) Table wp1k_gf_form_revisions: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=679) in 0.00 seconds
+0236.520 (0) Table wp1k_gf_form_revisions: finishing file(s) (2, 0.4 KB)
+0236.522 (0) Table wp1k_gf_form_view: Total expected rows (via COUNT): 0
+0236.523 (0) Table wp1k_gf_form_view: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=691) in 0.00 seconds
+0236.525 (0) Table wp1k_gf_form_view: finishing file(s) (2, 0.4 KB)
+0236.529 (0) Table wp1k_wc_admin_note_actions: Total expected rows (via COUNT): 55
+0236.529 (0) Table is relatively small; fetch_rows will thus be: 100 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0236.531 (0) Table wp1k_wc_admin_note_actions: Rows added in this batch (next record: 2530): 55 (uncompressed bytes in this segment=10446) in 0.00 seconds
+0236.533 (0) Table wp1k_wc_admin_note_actions: finishing file(s) (2, 2.3 KB)
+0236.537 (0) Table wp1k_wc_admin_notes: Total expected rows (via COUNT): 48
+0236.537 (0) Table is relatively small; fetch_rows will thus be: 50 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0236.540 (0) Table wp1k_wc_admin_notes: Rows added in this batch (next record: 48): 48 (uncompressed bytes in this segment=23284) in 0.00 seconds
+0236.543 (0) Table wp1k_wc_admin_notes: finishing file(s) (2, 6 KB)
+0236.545 (0) Table wp1k_wc_category_lookup: Total expected rows (approximate): 4
+0236.547 (0) Table wp1k_wc_category_lookup: Rows added in this batch (next record: 1000): 4 (uncompressed bytes in this segment=632) in 0.00 seconds
+0236.549 (0) Table wp1k_wc_category_lookup: finishing file(s) (2, 0.4 KB)
+0236.552 (0) Table wp1k_wc_customer_lookup: Total expected rows (via COUNT): 0
+0236.553 (0) Table wp1k_wc_customer_lookup: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1242) in 0.00 seconds
+0236.555 (0) Table wp1k_wc_customer_lookup: finishing file(s) (2, 0.5 KB)
+0236.558 (0) Table wp1k_wc_download_log: Total expected rows (via COUNT): 0
+0236.559 (0) Table wp1k_wc_download_log: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=751) in 0.00 seconds
+0236.561 (0) Table wp1k_wc_download_log: finishing file(s) (2, 0.4 KB)
+0236.564 (0) Table wp1k_wc_order_coupon_lookup: Total expected rows (approximate): 0
+0236.565 (0) Table wp1k_wc_order_coupon_lookup: Rows added in this batch (next record: 0): 0 (uncompressed bytes in this segment=723) in 0.00 seconds
+0236.567 (0) Table wp1k_wc_order_coupon_lookup: finishing file(s) (2, 0.4 KB)
+0236.570 (0) Table wp1k_wc_order_product_lookup: Total expected rows (via COUNT): 0
+0236.571 (0) Table wp1k_wc_order_product_lookup: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1223) in 0.00 seconds
+0236.573 (0) Table wp1k_wc_order_product_lookup: finishing file(s) (2, 0.5 KB)
+0236.576 (0) Table wp1k_wc_order_stats: Total expected rows (via COUNT): 0
+0236.577 (0) Table wp1k_wc_order_stats: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1114) in 0.00 seconds
+0236.579 (0) Table wp1k_wc_order_stats: finishing file(s) (2, 0.5 KB)
+0236.583 (0) Table wp1k_wc_order_tax_lookup: Total expected rows (approximate): 0
+0236.584 (0) Table wp1k_wc_order_tax_lookup: Rows added in this batch (next record: 0): 0 (uncompressed bytes in this segment=801) in 0.00 seconds
+0236.586 (0) Table wp1k_wc_order_tax_lookup: finishing file(s) (2, 0.4 KB)
+0236.589 (0) Table wp1k_wc_product_attributes_lookup: Total expected rows (approximate): 0
+0236.590 (0) Table wp1k_wc_product_attributes_lookup: Rows added in this batch (next record: 0): 0 (uncompressed bytes in this segment=866) in 0.00 seconds
+0236.592 (0) Table wp1k_wc_product_attributes_lookup: finishing file(s) (2, 0.4 KB)
+0236.595 (0) Table wp1k_wc_product_meta_lookup: Total expected rows (via COUNT): 32
+0236.596 (0) Table is relatively small; fetch_rows will thus be: 50 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0236.598 (0) Table wp1k_wc_product_meta_lookup: Rows added in this batch (next record: 375): 32 (uncompressed bytes in this segment=4410) in 0.00 seconds
+0236.601 (0) Table wp1k_wc_product_meta_lookup: finishing file(s) (2, 0.8 KB)
+0236.604 (0) Table wp1k_wc_rate_limits: Total expected rows (via COUNT): 0
+0236.605 (0) Table wp1k_wc_rate_limits: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=702) in 0.00 seconds
+0236.608 (0) Table wp1k_wc_rate_limits: finishing file(s) (2, 0.4 KB)
+0236.611 (0) Table wp1k_wc_reserved_stock: Total expected rows (approximate): 0
+0236.612 (0) Table wp1k_wc_reserved_stock: Rows added in this batch (next record: 0): 0 (uncompressed bytes in this segment=671) in 0.00 seconds
+0236.614 (0) Table wp1k_wc_reserved_stock: finishing file(s) (2, 0.4 KB)
+0236.617 (0) Table wp1k_wc_tax_rate_classes: Total expected rows (via COUNT): 2
+0236.617 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0236.618 (0) Table wp1k_wc_tax_rate_classes: Rows added in this batch (next record: 2): 2 (uncompressed bytes in this segment=814) in 0.00 seconds
+0236.620 (0) Table wp1k_wc_tax_rate_classes: finishing file(s) (2, 0.4 KB)
+0236.623 (0) Table wp1k_wc_webhooks: Total expected rows (via COUNT): 0
+0236.624 (0) Table wp1k_wc_webhooks: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1214) in 0.00 seconds
+0236.626 (0) Table wp1k_wc_webhooks: finishing file(s) (2, 0.5 KB)
+0236.630 (0) Table wp1k_woocommerce_api_keys: Total expected rows (via COUNT): 0
+0236.631 (0) Table wp1k_woocommerce_api_keys: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1043) in 0.00 seconds
+0236.634 (0) Table wp1k_woocommerce_api_keys: finishing file(s) (2, 0.4 KB)
+0236.637 (0) Table wp1k_woocommerce_attribute_taxonomies: Total expected rows (via COUNT): 2
+0236.637 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0236.639 (0) Table wp1k_woocommerce_attribute_taxonomies: Rows added in this batch (next record: 2): 2 (uncompressed bytes in this segment=1127) in 0.00 seconds
+0236.641 (0) Table wp1k_woocommerce_attribute_taxonomies: finishing file(s) (2, 0.5 KB)
+0236.644 (0) Table wp1k_woocommerce_downloadable_product_permissions: Total expected rows (via COUNT): 0
+0236.646 (0) Table wp1k_woocommerce_downloadable_product_permissions: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1526) in 0.00 seconds
+0236.649 (0) Table wp1k_woocommerce_downloadable_product_permissions: finishing file(s) (2, 0.5 KB)
+0236.653 (0) Table wp1k_woocommerce_log: Total expected rows (via COUNT): 0
+0236.653 (0) Table wp1k_woocommerce_log: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=731) in 0.00 seconds
+0236.656 (0) Table wp1k_woocommerce_log: finishing file(s) (2, 0.4 KB)
+0236.660 (0) Table wp1k_woocommerce_order_itemmeta: Total expected rows (via COUNT): 0
+0236.662 (0) Table wp1k_woocommerce_order_itemmeta: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=784) in 0.00 seconds
+0236.665 (0) Table wp1k_woocommerce_order_itemmeta: finishing file(s) (2, 0.4 KB)
+0236.668 (0) Table wp1k_woocommerce_order_items: Total expected rows (via COUNT): 0
+0236.669 (0) Table wp1k_woocommerce_order_items: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=739) in 0.00 seconds
+0236.672 (0) Table wp1k_woocommerce_order_items: finishing file(s) (2, 0.4 KB)
+0236.675 (0) Table wp1k_woocommerce_payment_tokenmeta: Total expected rows (via COUNT): 0
+0236.677 (0) Table wp1k_woocommerce_payment_tokenmeta: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=811) in 0.00 seconds
+0236.681 (0) Table wp1k_woocommerce_payment_tokenmeta: finishing file(s) (2, 0.4 KB)
+0236.683 (0) Table wp1k_woocommerce_payment_tokens: Total expected rows (via COUNT): 0
+0236.685 (0) Table wp1k_woocommerce_payment_tokens: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=833) in 0.00 seconds
+0236.687 (0) Table wp1k_woocommerce_payment_tokens: finishing file(s) (2, 0.4 KB)
+0236.691 (0) Table wp1k_woocommerce_sessions: Total expected rows (via COUNT): 2
+0236.691 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0236.693 (0) Table wp1k_woocommerce_sessions: Rows added in this batch (next record: 11): 2 (uncompressed bytes in this segment=3589) in 0.00 seconds
+0236.696 (0) Table wp1k_woocommerce_sessions: finishing file(s) (2, 0.9 KB)
+0236.699 (0) Table wp1k_woocommerce_shipping_zone_locations: Total expected rows (via COUNT): 0
+0236.700 (0) Table wp1k_woocommerce_shipping_zone_locations: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=874) in 0.00 seconds
+0236.702 (0) Table wp1k_woocommerce_shipping_zone_locations: finishing file(s) (2, 0.4 KB)
+0236.705 (0) Table wp1k_woocommerce_shipping_zone_methods: Total expected rows (via COUNT): 0
+0236.706 (0) Table wp1k_woocommerce_shipping_zone_methods: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=777) in 0.00 seconds
+0236.708 (0) Table wp1k_woocommerce_shipping_zone_methods: finishing file(s) (2, 0.4 KB)
+0236.711 (0) Table wp1k_woocommerce_shipping_zones: Total expected rows (via COUNT): 0
+0236.712 (0) Table wp1k_woocommerce_shipping_zones: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=637) in 0.00 seconds
+0236.714 (0) Table wp1k_woocommerce_shipping_zones: finishing file(s) (2, 0.4 KB)
+0236.717 (0) Table wp1k_woocommerce_tax_rate_locations: Total expected rows (via COUNT): 0
+0236.718 (0) Table wp1k_woocommerce_tax_rate_locations: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=848) in 0.00 seconds
+0236.720 (0) Table wp1k_woocommerce_tax_rate_locations: finishing file(s) (2, 0.4 KB)
+0236.723 (0) Table wp1k_woocommerce_tax_rates: Total expected rows (via COUNT): 0
+0236.724 (0) Table wp1k_woocommerce_tax_rates: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1285) in 0.00 seconds
+0236.726 (0) Table wp1k_woocommerce_tax_rates: finishing file(s) (2, 0.5 KB)
+0236.729 (0) Table wp1k_wpmailsmtp_debug_events: Total expected rows (via COUNT): 13
+0236.730 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0236.731 (0) Table wp1k_wpmailsmtp_debug_events: Rows added in this batch (next record: 13): 13 (uncompressed bytes in this segment=4691) in 0.00 seconds
+0236.734 (0) Table wp1k_wpmailsmtp_debug_events: finishing file(s) (2, 1 KB)
+0236.738 (0) Table wp1k_wpmailsmtp_tasks_meta: Total expected rows (via COUNT): 4
+0236.738 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0236.739 (0) Table wp1k_wpmailsmtp_tasks_meta: Rows added in this batch (next record: 4): 4 (uncompressed bytes in this segment=1002) in 0.00 seconds
+0236.742 (0) Table wp1k_wpmailsmtp_tasks_meta: finishing file(s) (2, 0.5 KB)
+0236.743 (0) backup_2022-06-17-1706_Intelli_Books_e469f1dca896-db-table-wp1k_options.table.tmpr12694.gz (1/85/fopen): adding to final database dump
+0237.001 (0) backup_2022-06-17-1706_Intelli_Books_e469f1dca896-db-table-wp1k_options.table.gz (2/85/fopen): adding to final database dump
+0237.004 (0) backup_2022-06-17-1706_Intelli_Books_e469f1dca896-db-table-wp1k_users.table.tmpr5.gz (3/85/fopen): adding to final database dump
+0237.005 (0) backup_2022-06-17-1706_Intelli_Books_e469f1dca896-db-table-wp1k_users.table.gz (4/85/fopen): adding to final database dump
+0237.006 (0) backup_2022-06-17-1706_Intelli_Books_e469f1dca896-db-table-wp1k_usermeta.table.tmpr103.gz (5/85/fopen): adding to final database dump
+0237.008 (0) backup_2022-06-17-1706_Intelli_Books_e469f1dca896-db-table-wp1k_usermeta.table.gz (6/85/fopen): adding to final database dump
+0237.008 (0) backup_2022-06-17-1706_Intelli_Books_e469f1dca896-db-table-wp1k_commentmeta.table.tmpr0.gz (7/85/fopen): adding to final database dump
+0237.009 (0) backup_2022-06-17-1706_Intelli_Books_e469f1dca896-db-table-wp1k_commentmeta.table.gz (8/85/fopen): adding to final database dump
+0237.010 (0) backup_2022-06-17-1706_Intelli_Books_e469f1dca896-db-table-wp1k_comments.table.tmpr2.gz (9/85/fopen): adding to final database dump
+0237.011 (0) backup_2022-06-17-1706_Intelli_Books_e469f1dca896-db-table-wp1k_comments.table.gz (10/85/fopen): adding to final database dump
+0237.012 (0) backup_2022-06-17-1706_Intelli_Books_e469f1dca896-db-table-wp1k_links.table.tmpr0.gz (11/85/fopen): adding to final database dump
+0237.013 (0) backup_2022-06-17-1706_Intelli_Books_e469f1dca896-db-table-wp1k_links.table.gz (12/85/fopen): adding to final database dump
+0237.014 (0) backup_2022-06-17-1706_Intelli_Books_e469f1dca896-db-table-wp1k_postmeta.table.tmpr13849.gz (13/85/fopen): adding to final database dump
+0238.016 (0) backup_2022-06-17-1706_Intelli_Books_e469f1dca896-db-table-wp1k_postmeta.table.gz (14/85/fopen): adding to final database dump
+0238.017 (0) backup_2022-06-17-1706_Intelli_Books_e469f1dca896-db-table-wp1k_posts.table.tmpr4715.gz (15/85/fopen): adding to final database dump
+0238.218 (0) backup_2022-06-17-1706_Intelli_Books_e469f1dca896-db-table-wp1k_posts.table.gz (16/85/fopen): adding to final database dump
+0238.219 (0) backup_2022-06-17-1706_Intelli_Books_e469f1dca896-db-table-wp1k_signups.table.tmpr0.gz (17/85/fopen): adding to final database dump
+0238.219 (0) backup_2022-06-17-1706_Intelli_Books_e469f1dca896-db-table-wp1k_signups.table.gz (18/85/fopen): adding to final database dump
+0238.220 (0) backup_2022-06-17-1706_Intelli_Books_e469f1dca896-db-table-wp1k_term_relationships.table.tmpr100001.gz (19/85/fopen): adding to final database dump
+0238.221 (0) backup_2022-06-17-1706_Intelli_Books_e469f1dca896-db-table-wp1k_term_relationships.table.gz (20/85/fopen): adding to final database dump
+0238.221 (0) backup_2022-06-17-1706_Intelli_Books_e469f1dca896-db-table-wp1k_term_taxonomy.table.tmpr67.gz (21/85/fopen): adding to final database dump
+0238.222 (0) backup_2022-06-17-1706_Intelli_Books_e469f1dca896-db-table-wp1k_term_taxonomy.table.gz (22/85/fopen): adding to final database dump
+0238.222 (0) backup_2022-06-17-1706_Intelli_Books_e469f1dca896-db-table-wp1k_termmeta.table.tmpr40.gz (23/85/fopen): adding to final database dump
+0238.223 (0) backup_2022-06-17-1706_Intelli_Books_e469f1dca896-db-table-wp1k_termmeta.table.gz (24/85/fopen): adding to final database dump
+0238.224 (0) backup_2022-06-17-1706_Intelli_Books_e469f1dca896-db-table-wp1k_terms.table.tmpr67.gz (25/85/fopen): adding to final database dump
+0238.225 (0) backup_2022-06-17-1706_Intelli_Books_e469f1dca896-db-table-wp1k_terms.table.gz (26/85/fopen): adding to final database dump
+0238.225 (0) backup_2022-06-17-1706_Intelli_Books_e469f1dca896-db-table-wp1k_actionscheduler_actions.table.tmpr52.gz (27/85/fopen): adding to final database dump
+0238.227 (0) backup_2022-06-17-1706_Intelli_Books_e469f1dca896-db-table-wp1k_actionscheduler_actions.table.gz (28/85/fopen): adding to final database dump
+0238.227 (0) backup_2022-06-17-1706_Intelli_Books_e469f1dca896-db-table-wp1k_actionscheduler_claims.table.tmpr0.gz (29/85/fopen): adding to final database dump
+0238.228 (0) backup_2022-06-17-1706_Intelli_Books_e469f1dca896-db-table-wp1k_actionscheduler_claims.table.gz (30/85/fopen): adding to final database dump
+0238.228 (0) backup_2022-06-17-1706_Intelli_Books_e469f1dca896-db-table-wp1k_actionscheduler_groups.table.tmpr5.gz (31/85/fopen): adding to final database dump
+0238.229 (0) backup_2022-06-17-1706_Intelli_Books_e469f1dca896-db-table-wp1k_actionscheduler_groups.table.gz (32/85/fopen): adding to final database dump
+0238.230 (0) backup_2022-06-17-1706_Intelli_Books_e469f1dca896-db-table-wp1k_actionscheduler_logs.table.tmpr132.gz (33/85/fopen): adding to final database dump
+0238.231 (0) backup_2022-06-17-1706_Intelli_Books_e469f1dca896-db-table-wp1k_actionscheduler_logs.table.gz (34/85/fopen): adding to final database dump
+0238.232 (0) backup_2022-06-17-1706_Intelli_Books_e469f1dca896-db-table-wp1k_aioseo_cache.table.tmpr8.gz (35/85/fopen): adding to final database dump
+0238.235 (0) backup_2022-06-17-1706_Intelli_Books_e469f1dca896-db-table-wp1k_aioseo_cache.table.gz (36/85/fopen): adding to final database dump
+0238.236 (0) backup_2022-06-17-1706_Intelli_Books_e469f1dca896-db-table-wp1k_aioseo_notifications.table.tmpr0.gz (37/85/fopen): adding to final database dump
+0238.236 (0) backup_2022-06-17-1706_Intelli_Books_e469f1dca896-db-table-wp1k_aioseo_notifications.table.gz (38/85/fopen): adding to final database dump
+0238.237 (0) backup_2022-06-17-1706_Intelli_Books_e469f1dca896-db-table-wp1k_aioseo_posts.table.tmpr0.gz (39/85/fopen): adding to final database dump
+0238.238 (0) backup_2022-06-17-1706_Intelli_Books_e469f1dca896-db-table-wp1k_aioseo_posts.table.gz (40/85/fopen): adding to final database dump
+0238.238 (0) backup_2022-06-17-1706_Intelli_Books_e469f1dca896-db-table-wp1k_cartflows_ca_cart_abandonment.table.tmpr1.gz (41/85/fopen): adding to final database dump
+0238.239 (0) backup_2022-06-17-1706_Intelli_Books_e469f1dca896-db-table-wp1k_cartflows_ca_cart_abandonment.table.gz (42/85/fopen): adding to final database dump
+0238.240 (0) backup_2022-06-17-1706_Intelli_Books_e469f1dca896-db-table-wp1k_cartflows_ca_email_history.table.tmpr0.gz (43/85/fopen): adding to final database dump
+0238.240 (0) backup_2022-06-17-1706_Intelli_Books_e469f1dca896-db-table-wp1k_cartflows_ca_email_history.table.gz (44/85/fopen): adding to final database dump
+0238.241 (0) backup_2022-06-17-1706_Intelli_Books_e469f1dca896-db-table-wp1k_cartflows_ca_email_templates.table.tmpr4.gz (45/85/fopen): adding to final database dump
+0238.242 (0) backup_2022-06-17-1706_Intelli_Books_e469f1dca896-db-table-wp1k_cartflows_ca_email_templates.table.gz (46/85/fopen): adding to final database dump
+0238.242 (0) backup_2022-06-17-1706_Intelli_Books_e469f1dca896-db-table-wp1k_cartflows_ca_email_templates_meta.table.tmpr16.gz (47/85/fopen): adding to final database dump
+0238.243 (0) backup_2022-06-17-1706_Intelli_Books_e469f1dca896-db-table-wp1k_cartflows_ca_email_templates_meta.table.gz (48/85/fopen): adding to final database dump
+0238.244 (0) backup_2022-06-17-1706_Intelli_Books_e469f1dca896-db-table-wp1k_e_events.table.tmpr0.gz (49/85/fopen): adding to final database dump
+0238.245 (0) backup_2022-06-17-1706_Intelli_Books_e469f1dca896-db-table-wp1k_e_events.table.gz (50/85/fopen): adding to final database dump
+0238.245 (0) backup_2022-06-17-1706_Intelli_Books_e469f1dca896-db-table-wp1k_e_submissions.table.tmpr4.gz (51/85/fopen): adding to final database dump
+0238.246 (0) backup_2022-06-17-1706_Intelli_Books_e469f1dca896-db-table-wp1k_e_submissions.table.gz (52/85/fopen): adding to final database dump
+0238.247 (0) backup_2022-06-17-1706_Intelli_Books_e469f1dca896-db-table-wp1k_e_submissions_actions_log.table.tmpr4.gz (53/85/fopen): adding to final database dump
+0238.248 (0) backup_2022-06-17-1706_Intelli_Books_e469f1dca896-db-table-wp1k_e_submissions_actions_log.table.gz (54/85/fopen): adding to final database dump
+0238.248 (0) backup_2022-06-17-1706_Intelli_Books_e469f1dca896-db-table-wp1k_e_submissions_values.table.tmpr10.gz (55/85/fopen): adding to final database dump
+0238.249 (0) backup_2022-06-17-1706_Intelli_Books_e469f1dca896-db-table-wp1k_e_submissions_values.table.gz (56/85/fopen): adding to final database dump
+0238.249 (0) backup_2022-06-17-1706_Intelli_Books_e469f1dca896-db-table-wp1k_ff_scheduled_actions.table.tmpr0.gz (57/85/fopen): adding to final database dump
+0238.250 (0) backup_2022-06-17-1706_Intelli_Books_e469f1dca896-db-table-wp1k_ff_scheduled_actions.table.gz (58/85/fopen): adding to final database dump
+0238.251 (0) backup_2022-06-17-1706_Intelli_Books_e469f1dca896-db-table-wp1k_fluentform_draft_submissions.table.tmpr0.gz (59/85/fopen): adding to final database dump
+0238.252 (0) backup_2022-06-17-1706_Intelli_Books_e469f1dca896-db-table-wp1k_fluentform_draft_submissions.table.gz (60/85/fopen): adding to final database dump
+0238.252 (0) backup_2022-06-17-1706_Intelli_Books_e469f1dca896-db-table-wp1k_fluentform_entry_details.table.tmpr464.gz (61/85/fopen): adding to final database dump
+0238.254 (0) backup_2022-06-17-1706_Intelli_Books_e469f1dca896-db-table-wp1k_fluentform_entry_details.table.gz (62/85/fopen): adding to final database dump
+0238.255 (0) backup_2022-06-17-1706_Intelli_Books_e469f1dca896-db-table-wp1k_fluentform_form_analytics.table.tmpr29.gz (63/85/fopen): adding to final database dump
+0238.256 (0) backup_2022-06-17-1706_Intelli_Books_e469f1dca896-db-table-wp1k_fluentform_form_analytics.table.gz (64/85/fopen): adding to final database dump
+0238.256 (0) backup_2022-06-17-1706_Intelli_Books_e469f1dca896-db-table-wp1k_fluentform_form_meta.table.tmpr45.gz (65/85/fopen): adding to final database dump
+0238.258 (0) backup_2022-06-17-1706_Intelli_Books_e469f1dca896-db-table-wp1k_fluentform_form_meta.table.gz (66/85/fopen): adding to final database dump
+0238.259 (0) backup_2022-06-17-1706_Intelli_Books_e469f1dca896-db-table-wp1k_fluentform_forms.table.tmpr7.gz (67/85/fopen): adding to final database dump
+0238.260 (0) backup_2022-06-17-1706_Intelli_Books_e469f1dca896-db-table-wp1k_fluentform_forms.table.gz (68/85/fopen): adding to final database dump
+0238.261 (0) backup_2022-06-17-1706_Intelli_Books_e469f1dca896-db-table-wp1k_fluentform_logs.table.tmpr37.gz (69/85/fopen): adding to final database dump
+0238.262 (0) backup_2022-06-17-1706_Intelli_Books_e469f1dca896-db-table-wp1k_fluentform_logs.table.gz (70/85/fopen): adding to final database dump
+0238.263 (0) backup_2022-06-17-1706_Intelli_Books_e469f1dca896-db-table-wp1k_fluentform_order_items.table.tmpr0.gz (71/85/fopen): adding to final database dump
+0238.263 (0) backup_2022-06-17-1706_Intelli_Books_e469f1dca896-db-table-wp1k_fluentform_order_items.table.gz (72/85/fopen): adding to final database dump
+0238.264 (0) backup_2022-06-17-1706_Intelli_Books_e469f1dca896-db-table-wp1k_fluentform_submission_meta.table.tmpr76.gz (73/85/fopen): adding to final database dump
+0238.265 (0) backup_2022-06-17-1706_Intelli_Books_e469f1dca896-db-table-wp1k_fluentform_submission_meta.table.gz (74/85/fopen): adding to final database dump
+0238.265 (0) backup_2022-06-17-1706_Intelli_Books_e469f1dca896-db-table-wp1k_fluentform_submissions.table.tmpr37.gz (75/85/fopen): adding to final database dump
+0238.266 (0) backup_2022-06-17-1706_Intelli_Books_e469f1dca896-db-table-wp1k_fluentform_submissions.table.gz (76/85/fopen): adding to final database dump
+0238.267 (0) backup_2022-06-17-1706_Intelli_Books_e469f1dca896-db-table-wp1k_fluentform_subscriptions.table.tmpr0.gz (77/85/fopen): adding to final database dump
+0238.268 (0) backup_2022-06-17-1706_Intelli_Books_e469f1dca896-db-table-wp1k_fluentform_subscriptions.table.gz (78/85/fopen): adding to final database dump
+0238.268 (0) backup_2022-06-17-1706_Intelli_Books_e469f1dca896-db-table-wp1k_fluentform_transactions.table.tmpr0.gz (79/85/fopen): adding to final database dump
+0238.269 (0) backup_2022-06-17-1706_Intelli_Books_e469f1dca896-db-table-wp1k_fluentform_transactions.table.gz (80/85/fopen): adding to final database dump
+0238.269 (0) backup_2022-06-17-1706_Intelli_Books_e469f1dca896-db-table-wp1k_frm_fields.table.tmpr223.gz (81/85/fopen): adding to final database dump
+0238.273 (0) backup_2022-06-17-1706_Intelli_Books_e469f1dca896-db-table-wp1k_frm_fields.table.gz (82/85/fopen): adding to final database dump
+0238.273 (0) backup_2022-06-17-1706_Intelli_Books_e469f1dca896-db-table-wp1k_frm_forms.table.tmpr15.gz (83/85/fopen): adding to final database dump
+0238.275 (0) backup_2022-06-17-1706_Intelli_Books_e469f1dca896-db-table-wp1k_frm_forms.table.gz (84/85/fopen): adding to final database dump
+0238.276 (0) backup_2022-06-17-1706_Intelli_Books_e469f1dca896-db-table-wp1k_frm_item_metas.table.tmpr779.gz (85/85/fopen): adding to final database dump
+0238.277 (0) backup_2022-06-17-1706_Intelli_Books_e469f1dca896-db-table-wp1k_frm_item_metas.table.gz (86/85/fopen): adding to final database dump
+0238.278 (0) backup_2022-06-17-1706_Intelli_Books_e469f1dca896-db-table-wp1k_frm_items.table.tmpr125.gz (87/85/fopen): adding to final database dump
+0238.279 (0) backup_2022-06-17-1706_Intelli_Books_e469f1dca896-db-table-wp1k_frm_items.table.gz (88/85/fopen): adding to final database dump
+0238.280 (0) backup_2022-06-17-1706_Intelli_Books_e469f1dca896-db-table-wp1k_fsmpt_email_logs.table.tmpr44.gz (89/85/fopen): adding to final database dump
+0238.281 (0) backup_2022-06-17-1706_Intelli_Books_e469f1dca896-db-table-wp1k_fsmpt_email_logs.table.gz (90/85/fopen): adding to final database dump
+0238.281 (0) backup_2022-06-17-1706_Intelli_Books_e469f1dca896-db-table-wp1k_gf_addon_feed.table.tmpr0.gz (91/85/fopen): adding to final database dump
+0238.283 (0) backup_2022-06-17-1706_Intelli_Books_e469f1dca896-db-table-wp1k_gf_addon_feed.table.gz (92/85/fopen): adding to final database dump
+0238.283 (0) backup_2022-06-17-1706_Intelli_Books_e469f1dca896-db-table-wp1k_gf_draft_submissions.table.tmpr1.gz (93/85/fopen): adding to final database dump
+0238.284 (0) backup_2022-06-17-1706_Intelli_Books_e469f1dca896-db-table-wp1k_gf_draft_submissions.table.gz (94/85/fopen): adding to final database dump
+0238.285 (0) backup_2022-06-17-1706_Intelli_Books_e469f1dca896-db-table-wp1k_gf_entry.table.tmpr0.gz (95/85/fopen): adding to final database dump
+0238.286 (0) backup_2022-06-17-1706_Intelli_Books_e469f1dca896-db-table-wp1k_gf_entry.table.gz (96/85/fopen): adding to final database dump
+0238.287 (0) backup_2022-06-17-1706_Intelli_Books_e469f1dca896-db-table-wp1k_gf_entry_meta.table.tmpr0.gz (97/85/fopen): adding to final database dump
+0238.289 (0) backup_2022-06-17-1706_Intelli_Books_e469f1dca896-db-table-wp1k_gf_entry_meta.table.gz (98/85/fopen): adding to final database dump
+0238.290 (0) backup_2022-06-17-1706_Intelli_Books_e469f1dca896-db-table-wp1k_gf_entry_notes.table.tmpr0.gz (99/85/fopen): adding to final database dump
+0238.292 (0) backup_2022-06-17-1706_Intelli_Books_e469f1dca896-db-table-wp1k_gf_entry_notes.table.gz (100/85/fopen): adding to final database dump
+0238.292 (0) backup_2022-06-17-1706_Intelli_Books_e469f1dca896-db-table-wp1k_gf_form.table.tmpr0.gz (101/85/fopen): adding to final database dump
+0238.293 (0) backup_2022-06-17-1706_Intelli_Books_e469f1dca896-db-table-wp1k_gf_form.table.gz (102/85/fopen): adding to final database dump
+0238.294 (0) backup_2022-06-17-1706_Intelli_Books_e469f1dca896-db-table-wp1k_gf_form_meta.table.tmpr0.gz (103/85/fopen): adding to final database dump
+0238.295 (0) backup_2022-06-17-1706_Intelli_Books_e469f1dca896-db-table-wp1k_gf_form_meta.table.gz (104/85/fopen): adding to final database dump
+0238.295 (0) backup_2022-06-17-1706_Intelli_Books_e469f1dca896-db-table-wp1k_gf_form_revisions.table.tmpr0.gz (105/85/fopen): adding to final database dump
+0238.296 (0) backup_2022-06-17-1706_Intelli_Books_e469f1dca896-db-table-wp1k_gf_form_revisions.table.gz (106/85/fopen): adding to final database dump
+0238.297 (0) backup_2022-06-17-1706_Intelli_Books_e469f1dca896-db-table-wp1k_gf_form_view.table.tmpr0.gz (107/85/fopen): adding to final database dump
+0238.298 (0) backup_2022-06-17-1706_Intelli_Books_e469f1dca896-db-table-wp1k_gf_form_view.table.gz (108/85/fopen): adding to final database dump
+0238.298 (0) backup_2022-06-17-1706_Intelli_Books_e469f1dca896-db-table-wp1k_wc_admin_note_actions.table.tmpr2531.gz (109/85/fopen): adding to final database dump
+0238.300 (0) backup_2022-06-17-1706_Intelli_Books_e469f1dca896-db-table-wp1k_wc_admin_note_actions.table.gz (110/85/fopen): adding to final database dump
+0238.301 (0) backup_2022-06-17-1706_Intelli_Books_e469f1dca896-db-table-wp1k_wc_admin_notes.table.tmpr49.gz (111/85/fopen): adding to final database dump
+0238.305 (0) backup_2022-06-17-1706_Intelli_Books_e469f1dca896-db-table-wp1k_wc_admin_notes.table.gz (112/85/fopen): adding to final database dump
+0238.306 (0) backup_2022-06-17-1706_Intelli_Books_e469f1dca896-db-table-wp1k_wc_category_lookup.table.tmpr1001.gz (113/85/fopen): adding to final database dump
+0238.307 (0) backup_2022-06-17-1706_Intelli_Books_e469f1dca896-db-table-wp1k_wc_category_lookup.table.gz (114/85/fopen): adding to final database dump
+0238.307 (0) backup_2022-06-17-1706_Intelli_Books_e469f1dca896-db-table-wp1k_wc_customer_lookup.table.tmpr0.gz (115/85/fopen): adding to final database dump
+0238.309 (0) backup_2022-06-17-1706_Intelli_Books_e469f1dca896-db-table-wp1k_wc_customer_lookup.table.gz (116/85/fopen): adding to final database dump
+0238.310 (0) backup_2022-06-17-1706_Intelli_Books_e469f1dca896-db-table-wp1k_wc_download_log.table.tmpr0.gz (117/85/fopen): adding to final database dump
+0238.310 (0) backup_2022-06-17-1706_Intelli_Books_e469f1dca896-db-table-wp1k_wc_download_log.table.gz (118/85/fopen): adding to final database dump
+0238.311 (0) backup_2022-06-17-1706_Intelli_Books_e469f1dca896-db-table-wp1k_wc_order_coupon_lookup.table.tmpr1.gz (119/85/fopen): adding to final database dump
+0238.312 (0) backup_2022-06-17-1706_Intelli_Books_e469f1dca896-db-table-wp1k_wc_order_coupon_lookup.table.gz (120/85/fopen): adding to final database dump
+0238.313 (0) backup_2022-06-17-1706_Intelli_Books_e469f1dca896-db-table-wp1k_wc_order_product_lookup.table.tmpr0.gz (121/85/fopen): adding to final database dump
+0238.314 (0) backup_2022-06-17-1706_Intelli_Books_e469f1dca896-db-table-wp1k_wc_order_product_lookup.table.gz (122/85/fopen): adding to final database dump
+0238.315 (0) backup_2022-06-17-1706_Intelli_Books_e469f1dca896-db-table-wp1k_wc_order_stats.table.tmpr0.gz (123/85/fopen): adding to final database dump
+0238.316 (0) backup_2022-06-17-1706_Intelli_Books_e469f1dca896-db-table-wp1k_wc_order_stats.table.gz (124/85/fopen): adding to final database dump
+0238.316 (0) backup_2022-06-17-1706_Intelli_Books_e469f1dca896-db-table-wp1k_wc_order_tax_lookup.table.tmpr1.gz (125/85/fopen): adding to final database dump
+0238.317 (0) backup_2022-06-17-1706_Intelli_Books_e469f1dca896-db-table-wp1k_wc_order_tax_lookup.table.gz (126/85/fopen): adding to final database dump
+0238.318 (0) backup_2022-06-17-1706_Intelli_Books_e469f1dca896-db-table-wp1k_wc_product_attributes_lookup.table.tmpr1.gz (127/85/fopen): adding to final database dump
+0238.319 (0) backup_2022-06-17-1706_Intelli_Books_e469f1dca896-db-table-wp1k_wc_product_attributes_lookup.table.gz (128/85/fopen): adding to final database dump
+0238.320 (0) backup_2022-06-17-1706_Intelli_Books_e469f1dca896-db-table-wp1k_wc_product_meta_lookup.table.tmpr376.gz (129/85/fopen): adding to final database dump
+0238.321 (0) backup_2022-06-17-1706_Intelli_Books_e469f1dca896-db-table-wp1k_wc_product_meta_lookup.table.gz (130/85/fopen): adding to final database dump
+0238.322 (0) backup_2022-06-17-1706_Intelli_Books_e469f1dca896-db-table-wp1k_wc_rate_limits.table.tmpr0.gz (131/85/fopen): adding to final database dump
+0238.322 (0) backup_2022-06-17-1706_Intelli_Books_e469f1dca896-db-table-wp1k_wc_rate_limits.table.gz (132/85/fopen): adding to final database dump
+0238.323 (0) backup_2022-06-17-1706_Intelli_Books_e469f1dca896-db-table-wp1k_wc_reserved_stock.table.tmpr1.gz (133/85/fopen): adding to final database dump
+0238.324 (0) backup_2022-06-17-1706_Intelli_Books_e469f1dca896-db-table-wp1k_wc_reserved_stock.table.gz (134/85/fopen): adding to final database dump
+0238.325 (0) backup_2022-06-17-1706_Intelli_Books_e469f1dca896-db-table-wp1k_wc_tax_rate_classes.table.tmpr3.gz (135/85/fopen): adding to final database dump
+0238.326 (0) backup_2022-06-17-1706_Intelli_Books_e469f1dca896-db-table-wp1k_wc_tax_rate_classes.table.gz (136/85/fopen): adding to final database dump
+0238.327 (0) backup_2022-06-17-1706_Intelli_Books_e469f1dca896-db-table-wp1k_wc_webhooks.table.tmpr0.gz (137/85/fopen): adding to final database dump
+0238.327 (0) backup_2022-06-17-1706_Intelli_Books_e469f1dca896-db-table-wp1k_wc_webhooks.table.gz (138/85/fopen): adding to final database dump
+0238.328 (0) backup_2022-06-17-1706_Intelli_Books_e469f1dca896-db-table-wp1k_woocommerce_api_keys.table.tmpr0.gz (139/85/fopen): adding to final database dump
+0238.329 (0) backup_2022-06-17-1706_Intelli_Books_e469f1dca896-db-table-wp1k_woocommerce_api_keys.table.gz (140/85/fopen): adding to final database dump
+0238.329 (0) backup_2022-06-17-1706_Intelli_Books_e469f1dca896-db-table-wp1k_woocommerce_attribute_taxonomies.table.tmpr3.gz (141/85/fopen): adding to final database dump
+0238.330 (0) backup_2022-06-17-1706_Intelli_Books_e469f1dca896-db-table-wp1k_woocommerce_attribute_taxonomies.table.gz (142/85/fopen): adding to final database dump
+0238.331 (0) backup_2022-06-17-1706_Intelli_Books_e469f1dca896-db-table-wp1k_woocommerce_downloadable_product_permissions.table.tmpr0.gz (143/85/fopen): adding to final database dump
+0238.332 (0) backup_2022-06-17-1706_Intelli_Books_e469f1dca896-db-table-wp1k_woocommerce_downloadable_product_permissions.table.gz (144/85/fopen): adding to final database dump
+0238.332 (0) backup_2022-06-17-1706_Intelli_Books_e469f1dca896-db-table-wp1k_woocommerce_log.table.tmpr0.gz (145/85/fopen): adding to final database dump
+0238.334 (0) backup_2022-06-17-1706_Intelli_Books_e469f1dca896-db-table-wp1k_woocommerce_log.table.gz (146/85/fopen): adding to final database dump
+0238.334 (0) backup_2022-06-17-1706_Intelli_Books_e469f1dca896-db-table-wp1k_woocommerce_order_itemmeta.table.tmpr0.gz (147/85/fopen): adding to final database dump
+0238.335 (0) backup_2022-06-17-1706_Intelli_Books_e469f1dca896-db-table-wp1k_woocommerce_order_itemmeta.table.gz (148/85/fopen): adding to final database dump
+0238.335 (0) backup_2022-06-17-1706_Intelli_Books_e469f1dca896-db-table-wp1k_woocommerce_order_items.table.tmpr0.gz (149/85/fopen): adding to final database dump
+0238.336 (0) backup_2022-06-17-1706_Intelli_Books_e469f1dca896-db-table-wp1k_woocommerce_order_items.table.gz (150/85/fopen): adding to final database dump
+0238.337 (0) backup_2022-06-17-1706_Intelli_Books_e469f1dca896-db-table-wp1k_woocommerce_payment_tokenmeta.table.tmpr0.gz (151/85/fopen): adding to final database dump
+0238.338 (0) backup_2022-06-17-1706_Intelli_Books_e469f1dca896-db-table-wp1k_woocommerce_payment_tokenmeta.table.gz (152/85/fopen): adding to final database dump
+0238.338 (0) backup_2022-06-17-1706_Intelli_Books_e469f1dca896-db-table-wp1k_woocommerce_payment_tokens.table.tmpr0.gz (153/85/fopen): adding to final database dump
+0238.339 (0) backup_2022-06-17-1706_Intelli_Books_e469f1dca896-db-table-wp1k_woocommerce_payment_tokens.table.gz (154/85/fopen): adding to final database dump
+0238.339 (0) backup_2022-06-17-1706_Intelli_Books_e469f1dca896-db-table-wp1k_woocommerce_sessions.table.tmpr12.gz (155/85/fopen): adding to final database dump
+0238.340 (0) backup_2022-06-17-1706_Intelli_Books_e469f1dca896-db-table-wp1k_woocommerce_sessions.table.gz (156/85/fopen): adding to final database dump
+0238.340 (0) backup_2022-06-17-1706_Intelli_Books_e469f1dca896-db-table-wp1k_woocommerce_shipping_zone_locations.table.tmpr0.gz (157/85/fopen): adding to final database dump
+0238.342 (0) backup_2022-06-17-1706_Intelli_Books_e469f1dca896-db-table-wp1k_woocommerce_shipping_zone_locations.table.gz (158/85/fopen): adding to final database dump
+0238.342 (0) backup_2022-06-17-1706_Intelli_Books_e469f1dca896-db-table-wp1k_woocommerce_shipping_zone_methods.table.tmpr0.gz (159/85/fopen): adding to final database dump
+0238.343 (0) backup_2022-06-17-1706_Intelli_Books_e469f1dca896-db-table-wp1k_woocommerce_shipping_zone_methods.table.gz (160/85/fopen): adding to final database dump
+0238.343 (0) backup_2022-06-17-1706_Intelli_Books_e469f1dca896-db-table-wp1k_woocommerce_shipping_zones.table.tmpr0.gz (161/85/fopen): adding to final database dump
+0238.344 (0) backup_2022-06-17-1706_Intelli_Books_e469f1dca896-db-table-wp1k_woocommerce_shipping_zones.table.gz (162/85/fopen): adding to final database dump
+0238.344 (0) backup_2022-06-17-1706_Intelli_Books_e469f1dca896-db-table-wp1k_woocommerce_tax_rate_locations.table.tmpr0.gz (163/85/fopen): adding to final database dump
+0238.345 (0) backup_2022-06-17-1706_Intelli_Books_e469f1dca896-db-table-wp1k_woocommerce_tax_rate_locations.table.gz (164/85/fopen): adding to final database dump
+0238.346 (0) backup_2022-06-17-1706_Intelli_Books_e469f1dca896-db-table-wp1k_woocommerce_tax_rates.table.tmpr0.gz (165/85/fopen): adding to final database dump
+0238.347 (0) backup_2022-06-17-1706_Intelli_Books_e469f1dca896-db-table-wp1k_woocommerce_tax_rates.table.gz (166/85/fopen): adding to final database dump
+0238.347 (0) backup_2022-06-17-1706_Intelli_Books_e469f1dca896-db-table-wp1k_wpmailsmtp_debug_events.table.tmpr14.gz (167/85/fopen): adding to final database dump
+0238.348 (0) backup_2022-06-17-1706_Intelli_Books_e469f1dca896-db-table-wp1k_wpmailsmtp_debug_events.table.gz (168/85/fopen): adding to final database dump
+0238.349 (0) backup_2022-06-17-1706_Intelli_Books_e469f1dca896-db-table-wp1k_wpmailsmtp_tasks_meta.table.tmpr5.gz (169/85/fopen): adding to final database dump
+0238.349 (0) backup_2022-06-17-1706_Intelli_Books_e469f1dca896-db-table-wp1k_wpmailsmtp_tasks_meta.table.gz (170/85/fopen): adding to final database dump
+0238.363 (0) backup_2022-06-17-1706_Intelli_Books_e469f1dca896-db.gz: finished writing out complete database file (4839.5 KB)
+0238.422 (0) Total database tables backed up: 85 (backup_2022-06-17-1706_Intelli_Books_e469f1dca896-db.gz, size: 4955791, sha1: 6420e6d4eeb8437b8b6a9e1713f7dc249c650f7d, sha256: f174b68a40cff35bde495a2dfd7321fb86063fad67cde987058ce129e7a9af8c)
+0238.425 (0) backup_2022-06-17-1706_Intelli_Books_e469f1dca896-plugins.zip: plugins: This file has not yet been successfully uploaded: will queue
+0238.426 (0) backup_2022-06-17-1706_Intelli_Books_e469f1dca896-themes.zip: themes: This file has not yet been successfully uploaded: will queue
+0238.427 (0) backup_2022-06-17-1706_Intelli_Books_e469f1dca896-uploads.zip: uploads: This file has not yet been successfully uploaded: will queue
+0238.427 (0) backup_2022-06-17-1706_Intelli_Books_e469f1dca896-uploads2.zip: uploads: This file has not yet been successfully uploaded: will queue
+0238.428 (0) backup_2022-06-17-1706_Intelli_Books_e469f1dca896-others.zip: others: This file has not yet been successfully uploaded: will queue
+0238.428 (0) backup_2022-06-17-1706_Intelli_Books_e469f1dca896-db.gz: db: This file has not yet been successfully uploaded: will queue
+0238.429 (0) Saving backup history. Total backup size: 805.2 MB
+0238.430 (0) Requesting upload of the files that have not yet been successfully uploaded (6)
+0238.432 (0) Cloud backup selection (1/1): googledrive with instance (1/1) (last)
+0238.434 (0) Beginning dispatch of backup to remote (googledrive) (instance identifier s-ef8f6137a06b046ac8bc73c63e34357e)
+0239.228 (0) Google Drive: creating path: /UpdraftPlus
+0240.393 (0) Google Drive: quota usage: used=0 MB, total=15360 MB, available=15360 MB
+0240.394 (0) Google Drive: backup_2022-06-17-1706_Intelli_Books_e469f1dca896-plugins.zip: Attempting to upload to Google Drive (into folder id: 1OgyXOeyn2ZHZxICk3ZtcNqhG1zfct-Z5)
+0240.875 (0) Googledrive chunked upload: 2.3 % uploaded (1048576 - increasing chunk size to 2048 KB - memory usage: 64 / 62)
+0241.052 (0) Googledrive chunked upload: 7 % uploaded (3145728 - increasing chunk size to 4096 KB - memory usage: 64.1 / 62)
+0241.252 (0) Googledrive chunked upload: 16.3 % uploaded (7340032 - increasing chunk size to 8192 KB - memory usage: 64.1 / 62)
+0241.633 (0) Googledrive chunked upload: 34.9 % uploaded (15728640 - increasing chunk size to 16384 KB - memory usage: 64.1 / 62)
+0242.150 (0) Googledrive chunked upload: 72.2 % uploaded (32505856 - increasing chunk size to 32768 KB - memory usage: 64.1 / 62)
+0244.458 (0) Googledrive chunked upload: 100 % uploaded (32505856)
+0244.464 (0) Google Drive: OK: Archive backup_2022-06-17-1706_Intelli_Books_e469f1dca896-plugins.zip uploaded in 4.07 seconds
+0244.467 (0) Recording as successfully uploaded: backup_2022-06-17-1706_Intelli_Books_e469f1dca896-plugins.zip
+0244.489 (0) Deleting local file: backup_2022-06-17-1706_Intelli_Books_e469f1dca896-plugins.zip: OK
+0244.494 (0) Deleting zip manifest (backup_2022-06-17-1706_Intelli_Books_e469f1dca896-plugins.zip.list.tmp)
+0244.832 (0) Google Drive: quota usage: used=43 MB, total=15360 MB, available=15317 MB
+0244.834 (0) Google Drive: backup_2022-06-17-1706_Intelli_Books_e469f1dca896-themes.zip: Attempting to upload to Google Drive (into folder id: 1OgyXOeyn2ZHZxICk3ZtcNqhG1zfct-Z5)
+0245.298 (0) Googledrive chunked upload: 7.1 % uploaded (1048576 - increasing chunk size to 2048 KB - memory usage: 64 / 62)
+0245.475 (0) Googledrive chunked upload: 21.3 % uploaded (3145728 - increasing chunk size to 4096 KB - memory usage: 64.1 / 62)
+0246.052 (0) Googledrive chunked upload: 49.6 % uploaded (7340032 - increasing chunk size to 8192 KB - memory usage: 64.1 / 62)
+0247.962 (0) Googledrive chunked upload: 100 % uploaded (7340032)
+0247.964 (0) Google Drive: OK: Archive backup_2022-06-17-1706_Intelli_Books_e469f1dca896-themes.zip uploaded in 3.13 seconds
+0247.965 (0) Recording as successfully uploaded: backup_2022-06-17-1706_Intelli_Books_e469f1dca896-themes.zip
+0247.969 (0) Deleting local file: backup_2022-06-17-1706_Intelli_Books_e469f1dca896-themes.zip: OK
+0247.970 (0) Deleting zip manifest (backup_2022-06-17-1706_Intelli_Books_e469f1dca896-themes.zip.list.tmp)
+0248.247 (0) Google Drive: quota usage: used=57.1 MB, total=15360 MB, available=15302.9 MB
+0248.248 (0) Google Drive: backup_2022-06-17-1706_Intelli_Books_e469f1dca896-uploads.zip: Attempting to upload to Google Drive (into folder id: 1OgyXOeyn2ZHZxICk3ZtcNqhG1zfct-Z5)
+0248.734 (0) Googledrive chunked upload: 0.2 % uploaded (1048576 - increasing chunk size to 2048 KB - memory usage: 64 / 62)
+0248.915 (0) Googledrive chunked upload: 0.7 % uploaded (3145728 - increasing chunk size to 4096 KB - memory usage: 64.1 / 62)
+0249.110 (0) Googledrive chunked upload: 1.7 % uploaded (7340032 - increasing chunk size to 8192 KB - memory usage: 64.1 / 62)
+0249.341 (0) Googledrive chunked upload: 3.7 % uploaded (15728640 - increasing chunk size to 16384 KB - memory usage: 64.1 / 62)
+0249.795 (0) Googledrive chunked upload: 7.7 % uploaded (32505856 - increasing chunk size to 32768 KB - memory usage: 64.1 / 62)
+0250.584 (0) Googledrive chunked upload: 15.7 % uploaded (66060288 - increasing chunk size to 65536 KB - memory usage: 64.1 / 62)
+0252.200 (0) Googledrive chunked upload: 31.6 % uploaded (133169152)
+0253.652 (0) Googledrive chunked upload: 47.6 % uploaded (200278016)
+0254.850 (0) Googledrive chunked upload: 63.5 % uploaded (267386880)
+0256.456 (0) Googledrive chunked upload: 79.5 % uploaded (334495744)
+0257.889 (0) Googledrive chunked upload: 95.4 % uploaded (401604608)
+0259.352 (0) Googledrive chunked upload: 100 % uploaded (401604608)
+0259.354 (0) Google Drive: OK: Archive backup_2022-06-17-1706_Intelli_Books_e469f1dca896-uploads.zip uploaded in 11.11 seconds
+0259.355 (0) Recording as successfully uploaded: backup_2022-06-17-1706_Intelli_Books_e469f1dca896-uploads.zip
+0259.410 (0) Deleting local file: backup_2022-06-17-1706_Intelli_Books_e469f1dca896-uploads.zip: OK
+0259.411 (0) Deleting zip manifest (backup_2022-06-17-1706_Intelli_Books_e469f1dca896-uploads.zip.list.tmp)
+0259.757 (0) Google Drive: quota usage: used=458.4 MB, total=15360 MB, available=14901.6 MB
+0259.758 (0) Google Drive: backup_2022-06-17-1706_Intelli_Books_e469f1dca896-uploads2.zip: Attempting to upload to Google Drive (into folder id: 1OgyXOeyn2ZHZxICk3ZtcNqhG1zfct-Z5)
+0260.233 (0) Googledrive chunked upload: 0.3 % uploaded (1048576 - increasing chunk size to 2048 KB - memory usage: 64 / 62)
+0260.394 (0) Googledrive chunked upload: 0.9 % uploaded (3145728 - increasing chunk size to 4096 KB - memory usage: 64.1 / 62)
+0260.585 (0) Googledrive chunked upload: 2 % uploaded (7340032 - increasing chunk size to 8192 KB - memory usage: 64.1 / 62)
+0260.814 (0) Googledrive chunked upload: 4.4 % uploaded (15728640 - increasing chunk size to 16384 KB - memory usage: 64.1 / 62)
+0261.230 (0) Googledrive chunked upload: 9.1 % uploaded (32505856 - increasing chunk size to 32768 KB - memory usage: 64.1 / 62)
+0262.179 (0) Googledrive chunked upload: 18.4 % uploaded (66060288 - increasing chunk size to 65536 KB - memory usage: 64.1 / 62)
+0263.524 (0) Googledrive chunked upload: 37.1 % uploaded (133169152)
+0264.923 (0) Googledrive chunked upload: 55.8 % uploaded (200278016)
+0266.605 (0) Googledrive chunked upload: 74.5 % uploaded (267386880)
+0267.937 (0) Googledrive chunked upload: 93.3 % uploaded (334495744)
+0270.705 (0) Googledrive chunked upload: 100 % uploaded (334495744)
+0270.707 (0) Google Drive: OK: Archive backup_2022-06-17-1706_Intelli_Books_e469f1dca896-uploads2.zip uploaded in 10.95 seconds
+0270.708 (0) Recording as successfully uploaded: backup_2022-06-17-1706_Intelli_Books_e469f1dca896-uploads2.zip
+0270.752 (0) Deleting local file: backup_2022-06-17-1706_Intelli_Books_e469f1dca896-uploads2.zip: OK
+0270.753 (0) Deleting zip manifest (backup_2022-06-17-1706_Intelli_Books_e469f1dca896-uploads2.zip.list.tmp)
+0271.019 (0) Google Drive: quota usage: used=800.5 MB, total=15360 MB, available=14559.5 MB
+0271.020 (0) Google Drive: backup_2022-06-17-1706_Intelli_Books_e469f1dca896-others.zip: Attempting to upload to Google Drive (into folder id: 1OgyXOeyn2ZHZxICk3ZtcNqhG1zfct-Z5)
+0272.314 (0) Googledrive chunked upload: 100 % uploaded
+0272.316 (0) Google Drive: OK: Archive backup_2022-06-17-1706_Intelli_Books_e469f1dca896-others.zip uploaded in 1.3 seconds
+0272.317 (0) Recording as successfully uploaded: backup_2022-06-17-1706_Intelli_Books_e469f1dca896-others.zip
+0272.319 (0) Deleting local file: backup_2022-06-17-1706_Intelli_Books_e469f1dca896-others.zip: OK
+0272.320 (0) Deleting zip manifest (backup_2022-06-17-1706_Intelli_Books_e469f1dca896-others.zip.list.tmp)
+0272.574 (0) Google Drive: quota usage: used=800.5 MB, total=15360 MB, available=14559.5 MB
+0272.576 (0) Google Drive: backup_2022-06-17-1706_Intelli_Books_e469f1dca896-db.gz: Attempting to upload to Google Drive (into folder id: 1OgyXOeyn2ZHZxICk3ZtcNqhG1zfct-Z5)
+0273.065 (0) Googledrive chunked upload: 21.2 % uploaded (1048576 - increasing chunk size to 2048 KB - memory usage: 64 / 62)
+0273.259 (0) Googledrive chunked upload: 63.5 % uploaded (3145728 - increasing chunk size to 4096 KB - memory usage: 64.1 / 62)
+0274.348 (0) Googledrive chunked upload: 100 % uploaded (3145728)
+0274.350 (0) Google Drive: OK: Archive backup_2022-06-17-1706_Intelli_Books_e469f1dca896-db.gz uploaded in 1.77 seconds
+0274.351 (0) Recording as successfully uploaded: backup_2022-06-17-1706_Intelli_Books_e469f1dca896-db.gz
+0274.354 (0) Deleting local file: backup_2022-06-17-1706_Intelli_Books_e469f1dca896-db.gz: OK
+0274.357 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0274.358 (0) Number of backup sets in history: 2; groups (db): 1
+0274.358 (0) Examining (for databases) backup set with group_id=0, nonce=e469f1dca896, datestamp=1655485617 (Jun 17 2022 17:06:57)
+0274.359 (0) This backup set is the backup set just made, so will not be deleted.
+0274.359 (0) Examining (for databases) backup set with group_id=0, nonce=1039eda88d93, datestamp=1655481373 (Jun 17 2022 15:56:13)
+0274.359 (0) This backup set (1655481373) was an 'Always Keep' backup, and we have not yet reached any retain limits, so it should be counted in the count of how many have been retained for purposes of the 'how many to retain' count. It will not be pruned. Skipping.
+0274.359 (0) Number of backup sets in history: 2; groups (files): 1
+0274.360 (0) Examining (for files) backup set with nonce=e469f1dca896, datestamp=1655485617 (Jun 17 2022 17:06:57)
+0274.360 (0) This backup set is the backup set just made, so will not be deleted.
+0274.361 (0) This backup set is the backup set just made, so will not be deleted.
+0274.361 (0) This backup set is the backup set just made, so will not be deleted.
+0274.361 (0) This backup set is the backup set just made, so will not be deleted.
+0274.361 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0274.362 (0) Examining (for files) backup set with nonce=1039eda88d93, datestamp=1655481373 (Jun 17 2022 15:56:13)
+0274.362 (0) This backup set (1655481373) was an 'Always Keep' backup, and we have not yet reached any retain limits, so it should be counted in the count of how many have been retained for purposes of the 'how many to retain' count. It will not be pruned. Skipping.
+0274.362 (0) This backup set (1655481373) was an 'Always Keep' backup, and we have not yet reached any retain limits, so it should be counted in the count of how many have been retained for purposes of the 'how many to retain' count. It will not be pruned. Skipping.
+0274.362 (0) This backup set (1655481373) was an 'Always Keep' backup, and we have not yet reached any retain limits, so it should be counted in the count of how many have been retained for purposes of the 'how many to retain' count. It will not be pruned. Skipping.
+0274.362 (0) This backup set (1655481373) was an 'Always Keep' backup, and we have not yet reached any retain limits, so it should be counted in the count of how many have been retained for purposes of the 'how many to retain' count. It will not be pruned. Skipping.
+0274.363 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0274.363 (0) Retain: saving new backup history (sets now: 2) and finishing retain operation
+0274.365 (0) Resume backup (e469f1dca896, 0): finish run
+0274.367 (0) Decremented the semaphore (fd) by 1
+0274.368 (0) Semaphore (fd) unlocked
+0274.368 (0) There were no errors in the uploads, so the 'resume' event (1) is being unscheduled
+0274.371 (0) Fetching RSS news feed
+0274.549 (0) Fetched RSS news feed; result is a: SimplePie
+0274.572 (0) Sending email ('Files and database (Full backup)') report (attachments: 0, size: 0 KB) to: manis...
+0274.720 (0) The backup apparently succeeded and is now complete
